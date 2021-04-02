@@ -93,9 +93,10 @@ Architecture</p>
   <text>
     <body>
       <div type="edition" n="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" xml:lang="grc">
-        <head><foreign xml:lang="lat">De Chrysippi vita et scriptis testimonia.</foreign></head>
-        <div type="textpart" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" subtype="fragment" n="1"> 
-<p rend="indent"><pb facs="stoicorumveterum02arniuoft_0011"/>
+        <pb facs="stoicorumveterum02arniuoft_0011"/>
+        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="1"> 
+  <head><foreign xml:lang="lat">De Chrysippi vita et scriptis testimonia.</foreign></head>
+<p rend="indent">
   <foreign xml:lang="lat">Diog. Laërt. VII 179.</foreign> Χρύσιππος Ἀπολλωνίου Σολεὺς ἢ 
   Ταρσεύς, ὡς Ἀλέξανδρος ἐν Διαδοχαῖς, μαθητὴς Κλεάνθους. οὗτος 
   πρότερον μὲν δόλιχον ἤσκει, ἔπειτα ἀκούσας Ζήνωνος ἢ Κλεάνθους, 
@@ -154,13 +155,13 @@ Architecture</p>
   <p rend="indent">
     <foreign xml:lang="lat">Lucian. Macrob.</foreign> Χρύσιππος ἕν καὶ ὀγδοήκοντα (<foreign xml:lang="lat">scil.</foreign> ἔτη ἔζησεν). </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="1a"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="1a"> 
   <p rend="indent">
     <foreign xml:lang="lat">Strabo XIV p. 671</foreign>. γεγόνασι δ’ ἄνδρες ἐνθένδε (<foreign xml:lang="lat">scil. Solis</foreign>) τῶν 
     ὀνομαστῶν Χρύσιππός τε ὁ Στωϊκὸς φιλόσοφος, πατρὸς ὢν Ταρσέως ἐκεῖθεν 
     μετοικήσαντος <foreign xml:lang="lat">etc.</foreign> <pb facs="stoicorumveterum02arniuoft_0013"/></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="1b"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="1b"> 
   <p rend="indent">
     <foreign xml:lang="lat">Galenus Protrept. 7 p. 8, 22 Kaibel.</foreign> τίς γὰρ ⟨ἄν⟩ ἧν Σταγίρων
     λόγος, εἰ μὴ δι’ Ἀριστοτέλην, τίς δ’ ἂν Σόλων, εἰ μὴ δι’ Ἄρατόν τε καὶ Χρύσιππον.</p> 
@@ -168,7 +169,7 @@ Architecture</p>
     <foreign xml:lang="lat">Solinus 38, 9 p. 181 ed. M. Heliopolis antiquum oppidum Ciliciae
       fuit, patria Chrysippi, Stoïcae sapientiae potentissimi.</foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="2"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="2"> 
   <p rend="indent">
     <foreign xml:lang="lat">Ind. Stoic. Herc. col. XXXVIII.</foreign> καὶ τἇλλ’ ὁμοίως ἔ(πρ)ατ|τεν, ἀλλὰ
     καὶ ἐπὶ τ(ὴν) | σχολὴν αἰεὶ τὴν α(ὐ)τὴν | ὥραν ἐξῄει καὶ ὁμοί|ως ἀπελύετο, 
@@ -178,20 +179,20 @@ Architecture</p>
     <foreign xml:lang="lat">Col. XXXIX, 3.</foreign> γεγραμ(μέ)να περ(ὶ δικ)αι | οσύνης. 6. τῇ δ(ὲ καθ’ 
     ἡ) | μέραν (δ)ιαίτ(ῃ . . . . . | ώτατος (καὶ . . . . . . . . τατος ἐ|γένετο.</p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="3"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="3"> 
   <p rend="indent">
     <foreign xml:lang="lat">Ind. Stoic. Herc. col. XL</foreign> πε)ρὶ τὴ(ν φυλακὴν) τῆς σκη|νῆς ἐκαρτέ(ρ)ει, 
     μένουσα | κατὰ τ(ὴν) ἐξ ἀρχῆς τοῦ | βίου τά(ξιν. Οὔ)τε γὰρ ἀμί|δος 
     ὁπότε σχοίη χρείαν | οὐθένα (ἔ)πασ(χεν) αὑτῷ | (ὑ)ποθεῖ(ν)αι· (πρὸ)ς τε 
     τἀ|ναγκαῖα ἀνι(στά)μενος | (καθ)άπερ ὑγια(ίνων <foreign xml:lang="lat">etc.</foreign> </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="3a"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="3a"> 
   <p rend="indent">
     <foreign xml:lang="lat">Pausanias I 17, 2.</foreign> Ἐν δὲ τῷ γυμνασίῳ τῆς ἀγορᾶς ἀπέχοντι οὐ πολύ,
     Πτολεμαίου δὲ ἀπὸ τοῦ κατασκευασαμένου καλουμένῳ, λίθου τέ εἰσιν Ἑρμαῖ 
     θέας ἄξιοι — — καὶ ὅ τε Λίβυς Ἰόβας ἐνταῦθα κεῖται καὶ Χρύσιππος ὁ Σολεύς. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="3b"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="3b"> 
   <p rend="indent">
     <foreign xml:lang="lat">Plut. de Stoic. repugn. cp. 2 p. 1033e.</foreign> Ἀριστοκρέων γοῦν, ὁ
     Χρυσίππου μαθητὴς καὶ οἰκεῖος εἰκόνα χαλκῆν ἀναστηλώσας ἐνέγραψε τόδε 
@@ -199,19 +200,19 @@ Architecture</p>
     <q rend="blockquote">τόνδε νέον Χρύσιππον Ἀριστοκρέων ἀνέθηκε 
     τῶν Ἀκαδημιακῶν στραγγαλίδων κοπίδα. </q></p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="4"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="4"> 
   <p rend="indent">
     <foreign xml:lang="lat">Quintilianus instit. orat. XII 7, 9. at si res familiaris amplius 
     aliquid ad usus necessarios exiget, secundum omnium sapientium leges 
     patietur sibi gratiam referri, cum et Socrati collatum sit ad victum
     et Zenon, Cleanthes, Chrysippus mercedes a discipulis acceptaverint. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="5"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="5"> 
   <p rend="indent">
     <foreign xml:lang="lat">Ind. Stoic. Herc. col. XLI.</foreign> λέγετ(αι) δ’ εἶναι ταῦτα· ὡς οὐδεὶς 
     ἂν | ἐκεῖνον οὔτε ταχέως με|τ’ ἄλλων εἶδεν ἢ τῶν ἀ|κροατῶν καὶ ζηλωτῶν | καὶ σε . . . . </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="6"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="6"> 
   <p rend="indent">
     <foreign xml:lang="lat">Diog. Laërt. VII 183.</foreign> οὕτω δ’ ἦν φρονηματίας (ὁ Χρύσιππος)
     ὥστ’ ἐρομένου τινός· <q>τίνι συστήσω τὸν υἱόν</q> εἰπεῖν· <q>ἐμοί· εἰ γὰρ ὑπελάμβανον
@@ -221,13 +222,13 @@ Architecture</p>
     καὶ· 
     <q rend="blockquote">εἰ μὴ γὰρ ἦν Χρύσιππος, οὐκ ἂν ἥν στοά.</q> </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="7"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="7"> 
   <p rend="indent">
     <foreign xml:lang="lat">Diog. Laërt. VII 183.</foreign> ἐν μέντοι ταῖς οἰνώσεσιν ἡσύχαζε παραφερόμενος
     τοῖς σκέλεσιν, ὥστ’ εἰπεῖν τὴν δούλην· <q>Χρυσίππου μόνα τὰ σκέλη μεθύει.</q> 
     <pb facs="stoicorumveterum02arniuoft_0014"/></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="8"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="8"> 
   <p rend="indent">
     <foreign xml:lang="lat">Diog. Laërt. VII 182.</foreign> πάλιν δὲ ἐπεί τις ζητῶν καταμόνας αὐτῷ
     διελέγετο εὐσταθῶς, ἐπεὶ δὲ θεωρῶν προσιόντα ὄχλον ἤρχετο φιλονικεῖν ἔφη 
@@ -235,18 +236,18 @@ Architecture</p>
     <q rend="blockquote">οἴμοι, κασίγνητʼ, ὄμμα σὸν ταράσσεται· 
     ταχὺς δὲ μετέθου λύσσαν ἀρτίως φρονῶν. </q></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="9"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="9"> 
   <p rend="indent">
     <foreign xml:lang="lat">Diog. Laërt. VII 182.</foreign> πρὸς δὲ τὸν κατεξανιστάμενον Κλεάνθους
     διαλεκτικὸν καὶ προτείνοντα αὐτῷ σοφίσματα· <q>πέπαυσο, εἶπε, παρέλκων τὸν 
     πρεσβύτερον ἀπὸ τῶν πραγματικωτέρων, ἡμῖν δὲ τοῖς νέοις ταῦτα προτίθει.</q> </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="10"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="10"> 
   <p rend="indent">
     <foreign xml:lang="lat">Diog. Laërt. VII 182.</foreign> οὗτος ὀνειδισθεὶς ὑπό τινος ὅτι οὐχὶ παρὰ
     Ἀρίστωνι μετὰ πολλῶν σχολάζοι· <q>εἰ τοῖς πολλοῖς, εἶπε, προσεῖχον, οὐκ ἂν ἐφιλοσόφησα</q>. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="10a"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="10a"> 
   <p rend="indent">
     <foreign xml:lang="lat">Dio Chrysost. Or. XXXIII § 53 (V. I p. 312, 16 Arn.) (Tarsi)</foreign> 
     τῶν γὰρ ἐνθάδε δεινῶν τινα λέγουσιν εἴς τινα πόλιν ⟨ἐλθεῖν⟩ αὐτὸ τοῦτο 
@@ -261,12 +262,12 @@ Architecture</p>
     δοκεῖ τὸ παριστάμενον λέγειν οὐκ ἔφη ξυνιέναι, καὶ βαδίζειν αὐτὸν ἐκέλευσεν.
     ἤδη δὲ ἀποχωρῶν πτάρνυται· κἀκεῖνος εὐθὺς ἀνεβόησεν ὡς εἴη κίναιδος. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="11"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="11"> 
   <p rend="indent">
     <foreign xml:lang="lat">Seneca de constantia sapientis 17, 2 Chrysippus ait quendam
       indignatum, quod illum aliquis vervecem marinum dixerat.</foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="12"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="12"> 
   <p rend="indent">
     <foreign xml:lang="lat">Ind. Stoic. Herc. col. XLVI, 1. </foreign> .α νοσῶν· Ὕλλος Σολεύς, ὃν καὶ 
     Σφαίρῳ προεσχολακέναι φησὶν Ἀριστοκρέων ἐν ταῖς Χρυσίπ(που) ταφαῖς.
@@ -278,12 +279,12 @@ Architecture</p>
   <p rend="indent">
     <foreign xml:lang="lat">Supplementa col. XLVII. sunt Bücheleri, nisi quod</foreign> πρότερον ἐσχολακώς <foreign xml:lang="lat">ille.</foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="13"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="13"> 
   <p rend="indent">
     <foreign xml:lang="lat">Diog. Laërt. VII 189.</foreign> Ἐπεὶ δὲ ἐνδοξότατα τὰ βιβλία ἐστὶν αὐτῷ 
     <foreign xml:lang="lat">(scil. Chrysippo)</foreign>, ἔδοξέ μοι καὶ τὴν πρὸς εἶδος ἀναγραφὴν αὐτῶν ἐνταῦθα
-    καταχωρίσαι· καὶ ἔστι τάδε.</p> 
-    <p rend="indent">I. Λογικοῦ Τόπου ⟨τοῦ περὶ τὴν Διάρθρωσιν τῶν λογικῶν Ἐννοιῶν⟩. 
+    καταχωρίσαι· καὶ ἔστι τάδε. 
+    <lb/>I. Λογικοῦ Τόπου ⟨τοῦ περὶ τὴν Διάρθρωσιν τῶν λογικῶν Ἐννοιῶν⟩. 
     <lb/>θέσεις λογικαί 
     <lb/>τῶν τοῦ φιλοσόφου σκεμμάτων 
     <lb/>ὅρων διαλεκτικῶν πρὸς Μητρόδωρον αʹ βʹ γ' δʹ εʹ ζʹ 
@@ -292,7 +293,7 @@ Architecture</p>
     <lb/>τέχνη διαλεκτικὴ πρὸς Ἀρισταγόραν α´
     <lb/>συνημμένων πιθανῶν πρὸς Διοσκουρλιδην α´ β´ γ´ δ´</p>
   <p rend="center">II. Λογικοῦ Τόπου τοῦ περὶ τᾶ Πράγματα.</p>
-  <p rend="indent">Σύνταξις πρώτη·
+    <p rend="indent">Σύνταξις πρώτη·
     <lb/>περὶ ἀξιωμάτων α´
     <lb/>περὶ τῶν οὐχ ἁπλῶν άξιωμάτων α´
     <lb/> περὶ τοῦ συμπεπλεγμένου πρὸς Ἀθηνάδην α´ β´
@@ -328,7 +329,7 @@ Architecture</p>
     <pb facs="stoicorumveterum02arniuoft_0016"/>
     </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="14"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="14"> 
 <p rend="indent">Σύνταξις πέμπτη· 
 <lb/>περὶ τῶν πέντε πτώσεων αʹ 
 <lb/>περὶ τῶν κατὰ τὸ ὑποκείμενον ὡρισμένων ἐκφορῶν αʹ 
@@ -369,16 +370,15 @@ Architecture</p>
 <lb/>πρὸς Ἀγάθωνα ἢ περὶ τῶν ἑξῆς προβλημάτων αʹ 
 <lb/>περὶ τοῦ τίνα συλλογιστικά τινος μετ’ ἄλλου τε καὶ μετ’ ἄλλων αʹ (τινός 
 τε μετ’ ἄλλου καὶ μεγάλων <foreign xml:lang="lat">D</foreign>) 
-<lb/><pb facs="stoicorumveterum02arniuoft_0017"/>
+<pb facs="stoicorumveterum02arniuoft_0017"/>
 <lb/>περὶ τῶν ἐπιφορῶν πρὸς Ἀρισταγόραν αʹ 
 <lb/>περὶ τοῦ τάττεσθαι τὸν αὐτὸν λόγον ἐν πλείοσι τρόποις αʹ 
 <lb/>πρὸς τὰ ἀντειρημένα τῷ τὸν αὐτὸν λόγον ἐν συλλογιστικῷ καὶ ἀσυλλογίστῳ τετάχθαι τρόπῳ αʹ βʹ 
 <lb/>πρὸς τὰ ἀντειρημένα ταῖς τῶν συλλογισμῶν ἀναλύσεσι αʹ βʹ γʹ 
 <lb/>πρὸς τὸ περὶ τρόπων Φίλωνος πρὸς Τιμόστρατον αʹ 
-<lb/>λογικὰ συνημμένα πρὸς Τιμοκράτην καὶ Φιλομαθῆ εἰς τὰ περὶ λόγων καὶ τρόπων αʹ. 
-<lb/></p> 
+<lb/>λογικὰ συνημμένα πρὸς Τιμοκράτην καὶ Φιλομαθῆ εἰς τὰ περὶ λόγων καὶ τρόπων αʹ.</p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="15"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="15"> 
 <p rend="indent">Σύνταξις δευτέρα· 
 <lb/>περὶ τῶν περαινόντων λόγων πρὸς Ζήνωνα αʹ 
 <lb/>περὶ τῶν πρώτων καὶ ἀναποδείκτων συλλογισμῶν πρὸς Ζήνωνα αʹ 
@@ -410,7 +410,7 @@ Architecture</p>
 <lb/>πρὸς τοὺς νομίζοντας καὶ ψευδῆ καὶ ἀληθῆ εἶναι αʹ 
 <lb/>πρὸς τοὺς διὰ τῆς τομῆς διαλύοντας τὸν ψευδόμενον λόγον πρὸς Ἀριστοκρέοντα αʹ βʹ 
 <lb/>ἀποδείξεις πρὸς τὸ μὴ δεῖν τέμνειν τὰ ἀόριστα αʹ 
-<lb/><pb facs="stoicorumveterum02arniuoft_0018"/>
+<pb facs="stoicorumveterum02arniuoft_0018"/>
 <lb/>πρὸς τὰ ἀντειρημένα τοῖς κατὰ τῆς τομῆς τῶν ἀορίστων πρὸς Πάσυλον αʹ βʹ γʹ 
 <lb/>λύσις κατὰ τοὺς ἀρχαίους πρὸς Διοσκουρίδην αʹ 
 <lb/>περὶ τῆς τοῦ ψευδομένου λύσεως πρὸς Ἀριστοκρέοντα αʹ βʹ γʹ 
@@ -423,9 +423,9 @@ Architecture</p>
 <lb/>περὶ τῶν εἰς τὰς ὑπολήψεις λόγων καὶ ἡσυχαζόντων πρὸς Ὀνήτορα αʹ βʹ 
 <lb/>περὶ τοῦ ἐγκεκαλυμμένου πρὸς Ἀριστόβουλον αʹ βʹ 
 <lb/>περὶ τοῦ διαλεληθότος πρὸς Ἀθηνάδην αʹ. 
-<lb/></p> 
+</p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="16"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="16"> 
 <p rend="indent">Σύνταξις ὀγδόη· 
 <lb/>περὶ τοῦ οὔτιδος πρὸς Μενεκράτην α' β´ γʹ δʹ εʹ ϛʹ ζʹ ηʹ (θ' <foreign xml:lang="lat">D</foreign>) 
 <lb/>περὶ τῶν ἐξ ἀορίστου καὶ ὡρισμένου λόγων πρὸς Πάσυλον αʹ βʹ 
@@ -471,7 +471,7 @@ Architecture</p>
 <lb/>περὶ τοῦ πῶς δεῖ τῶν ποιημάτων ἀκούειν αʹ βʹ 
 <lb/>πρὸς τοὺς κριτικοὺς πρὸς Διόδωρον αʹ. </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="17">
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="17">
   <p rend="center">2. Ἠθικοῦ Τόπου περὶ τὸν κοινὸν λόγον καὶ τὰς ἐκ τούτου συυισταμένας τέχνας καὶ ἀρετάς. 
 </p>  
 <p rend="indent">Σύνταξις πρώτη· 
@@ -494,11 +494,11 @@ Architecture</p>
 <lb/>περὶ τῆς διαφορᾶς τῶν ἀρετῶν πρὸς Διόδωρον αʹ βʹ γʹ δʹ 
 <lb/>περὶ τοῦ ποιὰς εἶναι τὰς ἀρετάς αʹ 
 <lb/>περὶ ἀρετῶν πρὸς Πόλλιν αʹ βʹ. 
-<lb/><pb facs="stoicorumveterum02arniuoft_0020"/>
+<pb facs="stoicorumveterum02arniuoft_0020"/>
 </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="18"> 
-<head rend="center">3. Ἠθικοῦ Τόπου περὶ Ἀγαθῶυ καὶ Κακῶν. </head>
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="18"> 
+<p rend="center">3. Ἠθικοῦ Τόπου περὶ Ἀγαθῶυ καὶ Κακῶν. </p>
 <p rend="indent">Σύνταξις πρώτη· 
 <lb/>περὶ τοῦ καλοῦ καὶ τῆς ἡδονῆς πρὸς Ἀριστοκρέοντα αʹ βʹ γʹ δʹ εʹ ϛʹ ζʹ ηʹ θʹ ιʹ 
 <lb/>ἀποδείξεις πρὸς τὸ μὴ εἶναι τὴν ἡδονὴν τέλος αʹ βʹ γʹ δʹ 
@@ -507,7 +507,7 @@ Architecture</p>
 <lb/><foreign xml:lang="lat">Cetera interciderunt.</foreign> 
 </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="19"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="19"> 
   <p rend="indent">
     <foreign xml:lang="lat">Valerius Maximus VIII 7, 10. Citerioris aetatis metas, sed non
     parvi tamen spatii Chrysippi vivacitas flexit: nam octogesimo anno coeptum 
@@ -515,7 +515,7 @@ Architecture</p>
     cuius studium in tradendis ingenii sui monumentis tantum operae laborisque 
     sustinuit, ut ad ea quae scripsit penitus cognoscenda longa vita sit opus. </foreign></p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="20"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="20"> 
   <p rend="indent">
     <foreign xml:lang="lat">Numenius apud Eusebium praep. evang. XIV p. 728a.</foreign> τὰ δὲ τῶν 
     Στωϊκῶν ἐστασίασται, ἀρξάμενα ἀπὸ τῶν ἀρχόντων καὶ μηδέπω τελευτῶντα 
@@ -527,7 +527,7 @@ Architecture</p>
     αὐτοὶ γὰρ οὗτοι τοὺς ἑτέρους ὑπερβαλλόμενοι τῇ τε πολυπραγμοσύνῃ τοῖς τε 
     σκαριφηθμοῖς ἐπετίμων θᾶττον. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="21"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="21"> 
   <p rend="indent">
     <foreign xml:lang="lat">Origenes contra Celsum II. 12 Vol. I p. 141, 7 (p. 297 Delarue).</foreign>
     ἀλλὰ καὶ ὁ Χρύσιππος πολλαχοῦ τῶν συγγαμμμάτων αὐτοῦ φαίνεται καθαπτόμενος 
@@ -536,13 +536,13 @@ Architecture</p>
     δὲ χρόνον καὶ ὁ Χρύσιππος παρὰ τῷ Κλεάνθει πεποιῆσθαι τὰς διατριβάς 
     (<foreign xml:lang="lat">scil.</foreign> λέγεται). </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="22"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="22"> 
   <p rend="indent">
     <foreign xml:lang="lat">Origenes contra Celsum I. 39 Vol. I p. 91, 20 (p. 357 Delarue).</foreign>
     ὁ δὲ Χρύσιππος πολλαχοῦ ἐκθέμενος τὰ κινήσαντα αὐτὸν ἀναπέμπει ἡμᾶς 
     ἐφ’ οὓς ἂν εὕροιμεν κρεῖττον αὐτοῦ ἐροῦντας. </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="23"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="23"> 
   <p rend="indent">
     <foreign xml:lang="lat">Origenes contra Celsum V. 57 Vol. II p. 60, 5 (p. 621 Delarue).</foreign>
     Παράδοξα δὲ πράγματα τοῖς ἀνθρώποις ἐπιφαίνεσθαί ποτε καὶ τῶν Ἐλλήνων
@@ -550,7 +550,7 @@ Architecture</p>
     οἷον πολὺ ἐπιδειξάμενοι γνησίως φιλοσοφεῖν καὶ φιλαληθῶς ἐκτίθεσθαι τὰ εἰς
     αὐτοὺς φθάσαντα. Τοιαῦτα δὲ ἀνέγνωμεν παρὰ τῷ Σὀλεῖ Χρυσίππῳ <foreign xml:lang="lat">etc.</foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="24"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="24"> 
   <p rend="indent">
     <foreign xml:lang="lat">Galenus de differentia puls. 10. ed. Bas. III 30. K. VIII. 631 
     (impugnans sectam Archigenis).</foreign> πολὺ δὲ τοῦτ’ ἔστι παρὰ τῷ προπάππῳ
@@ -564,7 +564,7 @@ Architecture</p>
   τάχ’ ἄν ποτε καὶ αὖθις ἡμῖν διελθεῖν γένοιτο. </p>
   <p rend="indent"><foreign xml:lang="lat">Phot. lexicon s. v.</foreign> μέντοι· τὸ δὲ μέντον βάρβαρον, ᾧ καὶ Χρύσιππος χρῆται. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="25"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="25"> 
   <p rend="indent">
     <foreign xml:lang="lat">Quintilianus instit. orat. X 1, 84. minus indulsere eloquentiae 
     Stoici veteres, sed cum honesta suaserunt, tum in colligendo probandoque 
@@ -575,14 +575,14 @@ Architecture</p>
     suis defuisse concedant necesse est, ita nullos aut probare acrius
     aut concludere subtilius contendunt. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="26"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="26"> 
   <p rend="indent">
     <foreign xml:lang="lat">Cicero de oratore I 11, 50. Etenim videmus, iisdem de rebus 
       ieiune quosdam et exiliter, ut eum, quem acutissimum ferunt, Chrysippm, 
       disputavisse, neque ob eam rem philosophiae non satisfecisse, quod non 
       habuerit hanc dicendi ex arte aliena facultatem. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="27"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="27"> 
   <p rend="indent">
     <foreign xml:lang="lat">Frontonis epist. (ad. M. Antoninum de eloquentia) p. 146 Naber.
     Ubi illud acumen tuum? ubi subtilitas? Evigila et attende, quid cupiat
@@ -592,7 +592,7 @@ Architecture</p>
     fingit, orationem suam alii accommodat:</foreign> ταῦτα δ’ ἐστὶν αὔξειν, διασκευάζειν,
     ἐξεργάζεσθαι, πάλιν λέγειν, ἐπαναφέρειν, παράπτειν, προσωποποιεῖν. </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="28"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="28"> 
   <p rend="indent">
     <foreign xml:lang="lat">Dionysius Halicarn. de compos. verb. p. 30 Re.</foreign> Καὶ τί δεῖ τούτους 
     θαυμάζειν, ὅπουγε καὶ οἱ τὴν φιλοσοφίαν ἐπαγγελλόμενοι καὶ τὰς διαλεκτικὰς
@@ -607,7 +607,7 @@ Architecture</p>
     ἀπεπλανήθησαν καὶ οὐδ’ ὄναρ εἶδον τί ποτ’ ἐστὶ τὸ ποιοῦν ἡδεῖαν καὶ καλὴν 
     τὴν σύνθεσιν. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="29"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="29"> 
   <p rend="indent">
     <foreign xml:lang="lat">Arrianus Epict. dissert. I 17, 15.</foreign> ἀλλὰ νὴ Δία οὐ παρακολουθῶ 
     τῷ βουλήματι τῆς φύσεως. τίς οὖν ἐξηγεῖται αὐτό; λέγουσιν ὅτι Χρύσιππος.
@@ -615,7 +615,7 @@ Architecture</p>
     μὴ νοεῖν τί λέγει, ζητῶ τὸν ἐξηγούμενον· <q>ἴδε ἐπίσκεψαι, πῶς τοῦτο λέγεται,
     καθάπερ εἰ ῥωμαϊστί.</q> ποία οὖν ἐνθάδε ὀφρὺς τοῦ ἐξηγουμένου; </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="30"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="30"> 
   <p rend="indent">
     <foreign xml:lang="lat">Plut. de Stoic. repugn. cp. 9 p. 1035 b.</foreign> Ἀλλὰ τοῦτόν γε τὸν λόγον,
     ὃν ἔσχατόν φησι δεῖν τάττεσθαι ⟨τὸν⟩ περὶ θεῶν, ἔθει προτάττει καὶ 
@@ -627,7 +627,7 @@ Architecture</p>
     Ἀγαθὴν Τύχην, οὕτω καὶ αὐτὸς προγράψειε τὸν Δία, τὴν Εἱμαρμένην, τὴν
     Πρόνοιαν, τὸ συνέχεσθαι μιᾷ δυνάμει τὸν κόσμον, ἕνα ὄντα καὶ πεπερασμένον. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="31"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="31"> 
   <p rend="indent">
     <foreign xml:lang="lat">Plut. de Stoic. repugn. cp. 24 p. 1046 a.</foreign> τί οὖν σὺ (<foreign xml:lang="lat">scil. Chrysippe</foreign>), 
     φήσαι τις ἄν, αὐτὸς ἀνδράσι τοιούτοις καὶ τοσούτοις οὐδέποτε παύσῃ
@@ -637,7 +637,7 @@ Architecture</p>
     ἐν οἷς τυφλὸν αὐτῶν ἀποκαλεῖς τὸν λόγον καὶ μαχόμενον αὑτῷ καὶ 
     μυρίας ἄλλας ἁμαρτίας ἔχοντα. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="32"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="32"> 
   <p rend="indent">
     <foreign xml:lang="lat">Plut. de Stoic. repugn. cp. 10 p. 1036b.</foreign> ὅτι δ’ αὐτὸς (<foreign xml:lang="lat">scil. Chrysippus</foreign>)
     οὐκ ἐν ὀλίγοις ἀλλὰ πολλαχοῦ τοὺς ἐναντίους οἷς δοκιμάζει λόγους 
@@ -649,7 +649,7 @@ Architecture</p>
     <q>δαιμόνιε, φθίσει σε τὸ σὸν μένος</q> ὡς μεγάλας ἀφορμὰς καθ’ ἑαυτοῦ διδόντα 
     τοῖς κινεῖν τὰ δόγματα καὶ διαβάλλειν βουλομένοις. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="33"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="33"> 
   <p rend="indent">
     <foreign xml:lang="lat">Plut. de comm. not. cp. 1 p. 1050b (Stoicus aliquis dicit):</foreign> ὡς 
     οὐκ ἀπὸ τύχης ἀλλ’ ἐκ προνοίας θεῶν νομίζοι μετ’ Ἀρκεσίλαον καὶ πρὸ
@@ -661,14 +661,15 @@ Architecture</p>
     ἐκκρούειν τὰ πράγματα καὶ παραβιάζεσθαι βουλομένους μηδὲν περαίνειν ἀλλ’ 
     ἐλέγχεσθαι κακουργοῦντας καὶ σοφιζομένους. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="34"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="34"> 
   <p rend="indent">
     <foreign xml:lang="lat">Cicero de finibus I 2, 6. Quid enim est a Chrysippo praetermissum
     in Stoicis? Legimus tamen Diogenem, Antipatrum, Mnesarchum, 
     Panaetium, multos alios in primisque familiarem nostrum Posidonium. 
     <pb facs="stoicorumveterum02arniuoft_0025"/></foreign></p>
+    <p rend="center"><foreign xml:lang="lat">Quid sit philosophia. De partibus philosophiae. De ordine partium. </foreign></p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="35"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="35"> 
   <head><foreign xml:lang="lat">Prolegomena philosophae. <lb/>Quid sit philosophia. De partibus philosophae. De ordine partium.</foreign></head>
   <p rend="indent">
     <foreign xml:lang="lat">Aëtii Placita I. Prooem. 2 (D G p. 273, 11).</foreign> Οἱ μὲν οὖν
@@ -680,12 +681,12 @@ Architecture</p>
     κόσμου ζητῶμεν καὶ τῶν ἐν κόσμῳ, ἠθικὸν δὲ τὸ κατησχολημένον περὶ τὸν
     ἀνθρώπινον βίον, λογικὸν δὲ τὸ περὶ τὸν λόγον, ὃ καὶ διαλεκτικὸν καλοῦσιν. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="36"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="36"> 
   <p rend="indent">
     <foreign xml:lang="lat">Sextus adv. math. IX 13.</foreign> τὴν φιλοσοφίαν φασὶν ἐπιτήδευσιν 
     εἶναι σοφίας, τὴν δὲ σοφίαν ἐπιστήμην θείων τε καὶ ἀνθρωπίνων πραγμάτων. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="37"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="37"> 
   <p rend="indent">
     <foreign xml:lang="lat">Diog. Laërt. VII 39.</foreign> Τριμερῆ φασίν εἶναι τὸν κατὰ φιλοσοφίαν
     λόγον· εἶναι γὰρ αὐτοῦ τὸ μέν τι φυσικόν, τὸ δὲ ἠθικόν, τὸ 
@@ -694,7 +695,7 @@ Architecture</p>
     ταῦτα δὲ τὰ μέρη ὁ μὲν Ἀπολλόδωρος τόπους καλεῖ, ὁ δὲ Χρύσιππος 
     καὶ Εὕδρομος εδη. ἄλλοι γένη. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="38"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="38"> 
   <p rend="indent">
     <foreign xml:lang="lat">Sextus adv. math. VII 16.</foreign> οἱ εἰπόντες τῆς φιλοσοφίας τὸ μέν τι
     εἶναι φυσικόν, τὸ δὲ ἠθικόν, τὸ δὲ λογικόν· —  — ῥητότατα δὲ οἱ περὶ
@@ -719,7 +720,7 @@ Architecture</p>
     ἠθικόν, τὴν δὲ γῆν ἢ τὰ δένδρα τὸ φυσικόν· ἢ πόλει καλῶς τετειχισμένῃ 
     καὶ κατὰ λόγον διοικουμένῃ. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="39"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="39"> 
   <p rend="indent">
     <foreign xml:lang="lat">Philo de agricultura § 14 Vol. II p. 97, 24 Wendl.</foreign> Τὸν γοῦν 
     κατὰ φιλοσοφίαν λόγον τρίδυμον ὄντα τοὺς παλαιοὺς ἀγρῷ φασιν ἀπεικάσαι, 
@@ -731,7 +732,7 @@ Architecture</p>
     καὶ ἀποδείξεων ἀνενδοιάστων, ὥσπερ κηρὸν λελειασμένον τὸν νοῦν 
     ἀπεργάζεται, ἕτοιμον δέχεσθαι τούς τε φυσιολογίας καὶ τοὺς ἠθοποιΐας —  — χαρακτῆρας. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="40"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="40"> 
   <p rend="indent">
     <foreign xml:lang="lat">Origenes comment. in Matthaeum Vol. III p. 778 Delarue.</foreign> καὶ
     ὅρα εἰ δυνάμεθα τὴν μὲν κατὰ τὴν θείαν γραφὴν φυσιολογίαν τὸν ἀμπελῶνα
@@ -740,13 +741,13 @@ Architecture</p>
     τόπον (καὶ πᾶν τὸ γράμμα τῆς γραφῆς) τὸν φραγμὸν εἶναι τοῦ ἀμπελῶνος 
     περικείμενον ἔξωθεν <foreign xml:lang="lat">etc. </foreign></p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="41"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="41"> 
   <p rend="indent">
     <foreign xml:lang="lat">Diog. Laërt. VII 40.</foreign> καὶ οὐθὲν μέρος (<foreign xml:lang="lat">ex tribus philosophiae
     partibus</foreign>) τοῦ ἑτέρον προκεκρίσθαι, καθ’ ἅ τινες αὐτῶν φασιν, ἀλλὰ μεμῖχθαι
     αὐτά. καὶ τὴν παράδοσιν μικτὴν ἐποίουν. </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="42"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="42"> 
   <p rend="indent">
     <foreign xml:lang="lat">Plut. de Stoic. repugn. c. 9 p. 1035a.</foreign> Ὁ Χύσιππος οἴεται 
     δεῖν τῶν λογικῶν πρῶτον ἀκεοᾶσθαι τοὺς νέους, δεύτερον δὲ τῶν ἠθικῶν,
@@ -762,13 +763,13 @@ Architecture</p>
     εἶναι ὁ περὶ τῶν θεῶν λόγος, διὸ καὶ τελετὰς ἠγόρευσαν τὰς 
     τούτου παραδόσεις.</q> </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="43"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="43"> 
   <p rend="indent">
     <foreign xml:lang="lat">Diog. Laërt. VII 40.</foreign> ἄλλοι δὲ πρῶτον μὲν τὸ λογικὸν τάττουσι·
     δεύτερον δὲ τὸ φυσικόν· καὶ τρίτον τὸ ἠθικόν. ὧν ἐστι Ζήνων 
     ἐν τῷ περὶ λόγου καὶ Χρύσιππος etc. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="44"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="44"> 
   <p rend="indent">
     <foreign xml:lang="lat">Sextus adv. math. VII 22.</foreign> οἱ δὲ ἀπὸ τῆς Στοᾶς καὶ αὐτοὶ 
     ἄρχειν μέν φασι τὰ λογικά, δευτερεύειν δὲ τὰ ἠθικά· τελευταῖα δὲ τετάχθαι
@@ -780,7 +781,7 @@ Architecture</p>
     βαθυτέρας δεῖται τῆς ἐπιστάσεως. 
     <pb facs="stoicorumveterum02arniuoft_0028"/></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="45"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="45"> 
   <p rend="indent">
     <foreign xml:lang="lat">Cicero de finibus IV 4, 9. Quid? ea quae dialectici nunc tradunt
     et docent, nonne ab illis instituta sunt scil. a veteribus)? de quibus 
@@ -791,7 +792,7 @@ Architecture</p>
     posteriorem et Stoici et Peripatetici, priorem autem illi egregie tradiderunt,
     hi omnino ne attigerunt quidem.</foreign> </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="46"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="46"> 
   <p rend="indent">
     <foreign xml:lang="lat">Galenus de libris propriis 11. Vol. XIX p. 40 K.</foreign> ἀλλήλοις μὲν
     λέγω διαφέρεσθαι τοὺς φιλοσόφους ἐν τῇ λογικῇ θεωρίᾳ, τοὺς Περιπατητικούς
@@ -799,7 +800,7 @@ Architecture</p>
     ἑκάστην αὐτῶν· μικρὰ μὲν δή πώς ἐστιν ἡ παρὰ τοῖς Περιπατητικοῖς διαφωνία,
     μεγάλη δὲ παρὰ τοῖς Στωϊκοῖς καὶ Πλατωνικοῖς. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="47"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="47"> 
 <p rend="indent">
   <foreign xml:lang="lat">Galenus de differentia pulsuum II 4. Vol. VIII 578.</foreign> οὐδὲ 
   γὰρ εὖρον τοὔνομα παρά τινι τῶν Ἐλλήνων· ὥστε οὐδὲ καθ’ οὗ τέτακται 
@@ -807,7 +808,7 @@ Architecture</p>
   αὐτοῦ βιβλίον περὶ τῆς ἰδίας διαλέκτου, καθάπερ Χρύσιππος
   ὑπὲρ ὧν ἔθετο κατὰ τὴν διαλεκτικὴν ὀνομάτων. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="48"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="48"> 
   <p rend="indent">
     <foreign xml:lang="lat">Diog. Laërt. VII 41.</foreign> τὸ δὲ λογικὸν μέρος φασὶν ἔνιοι εἰς δύο 
     διαιρεῖσθαι ἐπιστήμας, εἰς ῥητορικὴν καὶ εἰς διαλεκτικήν. —  — 42. τήν τε
@@ -816,7 +817,7 @@ Architecture</p>
     λόγων· ὅθεν καὶ οὕτως αὐτὴν ὁρίζονται· ἐπιστήμην ἀληθῶν καὶ ψευδῶν καὶ οὐδετέρων. 
     <pb facs="stoicorumveterum02arniuoft_0029"/></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="49"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="49"> 
   <head><foreign xml:lang="lat">Chrysippae Philosophae.<lb/>Pars I. <lb/>Logica.</foreign></head>
   <p rend="indent">
     <foreign xml:lang="lat">Ammonius in Aristot. Anal. pr. p. 8, 20 Wal.</foreign> οἱ μὲν Στωϊκοὶ 
@@ -862,7 +863,7 @@ Architecture</p>
       a veterum Stoicorum usu abhorret, probabile tamen videtur, simili ratione
       veteres probavisse: logicam esse partem philosophiae. cf. Philoponus ad Anal. pr. f. 4a. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="49a"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="49a"> 
 <p rend="indent">
   <foreign xml:lang="lat">Alexander Aphrod. in Aristot. Analyt. pr. p. 1, 9 Wal.</foreign> οἱ μὲν 
   οὖν μέρος αὐτὴν λέγοντες ἠνέχθησαν ἐπὶ τοῦτο, διότι ὥσπερ περὶ τὰ ἄλλα,
@@ -880,14 +881,14 @@ Architecture</p>
   ἐκ τῶν τιθεμένων τε καὶ συγχωρουμένων ἐξ ἀνάγκης τι συναγόμενον 
   δεικνύναι· ὃ οὐδετέρας ἐκείνων τέλος. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="53x"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="53x"> 
 <p rend="indent">
   <foreign xml:lang="lat">Plut. de Stoic. repugn. cp. 9 p. 1035e.</foreign> Εἰ δέ τις ἐρεῖ, γεγραφέναι
   τὸν Χρύσιππον ἐν τῷ περὶ Λὁγου Χρήσεως, ὡς <q>Οὐ καθάπαξ 
     ἀφεκτέον ἐστὶ τῶν ἄλλων τῷ τὴν λογικὴν ἀναλαμβάνοντι πρώτην, 
     ἀλλὰ κἀκείνων μεταληπτέον κατὰ τὸ διδόμενον</q> ἀληθῆ μὲν ἐρεῖ <foreign xml:lang="lat">etc.</foreign> </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="54x"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="54x"> 
 <p rend="indent">
   <foreign xml:lang="lat">Arrianus Epictet. dissert. I 17, 10.</foreign> ἐκεῖνο ἀπαρκεῖ ὅτι (τὰ 
   λογικά) τῶν ἄλλων ἐστὶ διακριτικὰ καὶ ἐπισκεπτικὰ καὶ ὡς ἄν τις 
@@ -895,7 +896,7 @@ Architecture</p>
   καὶ Ζήνων καὶ Κλεάνθης; 
   <pb facs="stoicorumveterum02arniuoft_0031"/></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="52"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="52"> 
   <head><foreign xml:lang="lat">Caput I. <lb/>De cognitione doctrina.<lb/></foreign>§1. Περὶ φαντασίας.<lb/><foreign xml:lang="lat">Cf. Vol. I n. 55-59. 484.</foreign></head>
 <p rend="indent">
   <foreign xml:lang="lat">Diocles Magnes apud Diog. Laërt. VII, 49.</foreign> ἀρέσκει τοῖς Στωϊκοῖς
@@ -906,7 +907,7 @@ Architecture</p>
   ἡ φαντασία, εἶθ’ ἡ διάνοια ἐκλαλητικὴ ὑπάρχουσα, ὃ πάσχει ὑπὸ τῆς φαντασίας,
   τοῦτο ἐκφέρει λόγῳ. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="53"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="53"> 
 <p rend="indent">
   <foreign xml:lang="lat">Diog. Laërt. VII 46.</foreign> τὴν δὲ φαντασίαν εἶναι τύπωσιν ἐν
   ψυχῇ, τοῦ ὀνόματος οἰκείως μετενηνεγμένου ἀπὸ τῶν τύπων ⟨τῶν⟩ ἐν τῷ 
@@ -916,7 +917,7 @@ Architecture</p>
   καὶ ἐναπομεμαγμένην· ἀκατάληπτον δὲ τὴν μὴ ἀπὸ ὑπάρχοντος·
   ἤ ἀπὸ ὑπάρχοντος μέν, μὴ κατ’ αὐτὸ δὲ τὸ ὑπάρχον· τὴν μὴ τρανῆ μηδὲ ἔκτυπον. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="54"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="54"> 
 <p rend="indent">
   <foreign xml:lang="lat">Aëtii plac. IV. 12, 1 (DDG p. 401, 14).</foreign> Τίνι διαφέρει φαντασία
   φανταστὸν φανταστικὸν φάντασμα. <foreign xml:lang="lat">Gal. hist. philos. 98. cf.
@@ -950,7 +951,7 @@ Architecture</p>
    ὁρᾷς γὰρ οὐδὲν ὧν δοκεῖς σάφ’ εἰδέναι, </q>
     ὡς καὶ παρ’ Ὁμήρῳ Θεοκλύμενος (<foreign xml:lang="lat">Od. v 350</foreign>). </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="55"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="55"> 
 <p rend="indent">
   <foreign xml:lang="lat">Diocles Magnes apud Diog. Laërt. VII, 50.</foreign> διαφέρει δὲ φαντασία 
   καὶ φάντασμα. φάντασμα μὲν γάρ ἐστι δόκησις διανοίας, οἵα 
@@ -959,7 +960,7 @@ Architecture</p>
   γὰρ δεκτέον τὴν τύπωσιν οἱονεὶ τύπον σφραγιστῆρος, ἐπεὶ ἀνένδεκτόν 
   ἐστι πολλοὺς τύπους κατὰ τὸ αὐτὸ περὶ τὸ αὐτὸ γίνεσθαι. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="56"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="56"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus Emp. adv. math. VII 227.</foreign> ἀπολειπομένης δ’ ἔτι τῆς
   στωϊκῆς δόξης παρακειμένως καὶ περὶ ταύτης λέγωμεν. κριτήριον
@@ -1004,7 +1005,7 @@ Architecture</p>
   πνεῦμα ἕνα μόνον τινὰ ἀπὸ φαντασίας τύπον φυλάττειν. </p>
   <p rend="indent"><foreign xml:lang="lat">Cf. ibid. VIII. 400. et h. op. I n. 58 (Zeno) n. 484 (Cleanthes). </foreign></p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="57"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="57"> 
 <p rend="indent">
   <foreign xml:lang="lat">Philo de mundi opificio § 166 Vol. I p. 58, 9 Wendl. </foreign>(αἱ αἰσθήσεις) 
   τὰ φανέντα ἐκτὸς εἴσω κομίζουσαι διαγγέλλουσι καὶ ἐπιδείκνυνται, τοὺς
@@ -1012,7 +1013,7 @@ Architecture</p>
   γὰρ ἐοικὼς (scil. ὁ νοῦς) δέχεται τὰς διὰ τῶν αἰσθήσεων φαντασίας, αἷς τὰ
   σώματα καταλαμβάνει <foreign xml:lang="lat">etc. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="58"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="58"> 
 <p rend="indent">
   <foreign xml:lang="lat">Alexander Aphrod. de anima p. 72, 5 Bruns.</foreign> χρὴ δὲ τοῦ τύπου
   κοινότερον ἐπὶ τῆς φαντασίας ἀκούειν. Κυρίως μὲν γὰρ τύπος τὸ κατ’ εἰσοχήν 
@@ -1025,7 +1026,7 @@ Architecture</p>
   ἴχνος καὶ ἐγκατάλειμμα τὸ ὑπομένον ἀπὸ τῶν αἰσθητῶν ἐν ἡμῖν τύπον καλοῦμεν
   μεταφέροντες τοὔνομα. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="59"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="59"> 
 <p rend="indent">
   <foreign xml:lang="lat">Alexander Aphrod. de anima p. 68, 11 Bruns.</foreign> διὸ καὶ ὁρίζονται
   τὴν φαντασίαν τύπωσιν ἐν ψυχῇ καὶ τύπωσιν ἐν ἡγεμονικῷ. (<foreign xml:lang="lat">cf. ibid. 16. </foreign>
@@ -1035,13 +1036,13 @@ Architecture</p>
   καὶ χωρὶς τῆς κατὰ τὰς αἰσθήσεις ἐνεργείας. εἰ δὲ τὴν γεγονυῖαν
   καὶ σῳζομένην, τὴν μνήμην ἂν λέγοιεν φαντασίαν.) </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="60"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="60"> 
 <p rend="indent">
   <foreign xml:lang="lat">Diocles Magnes apud Diog. Laërt. VII 50. </foreign>νοεῖται δὲ [ἡ] φαντασία
   ἡ ἀπὸ ὑπάρχοντος κατὰ τὸ ὑπάρχον ἐναπομεμαγμένη καὶ ἐναποτετυπωμένη
   καὶ ἐναπεσφραγισμένη, οἵα οὐκ ἂν γένοιτο ἀπὸ μὴ ὑπάρχοντος. </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="61"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="61"> 
 <p rend="indent">
   <foreign xml:lang="lat">Diocles Magnes apud Diog. Laërt. VII 51.</foreign> τῶν δὲ φαντασιῶν κατ’
   αὐτοὺς αἱ μέν εἰσιν αἰσθητικαί, αἱ δ’ οὔ· αἰσθητικαὶ μὲν αἱ δι’ αἰσθητηρίου
@@ -1054,13 +1055,13 @@ Architecture</p>
   νοήσεις εἰσίν, αἱ δ’ ἄλογοι οὐ τετυχήκασιν ὀνόματος· καὶ αἱ μέν εἰσι τεχνικαί,
   αἱ δὲ ἄτεχνοι· ἄλλως γοῦν θεωρεῖται ὑπὸ τεχνίτου εἰκὼν καὶ ἄλλως ὑπὸ ἀτέχνου. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="62"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="62"> 
 <p rend="indent">
   <foreign xml:lang="lat">Cicero de divin. II. 61, 126. praesertim cum Chrysippus, 
   Academicos refellens, permulto clariora et certiora esse dicat, quae vigilantibus 
   videantur, quam quae somniantibus.</foreign> </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="63"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="63"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. VII 162 (ex Antiocho, Stoicorum in hac 
   re sectatore).</foreign> καὶ φαντασίαν ῥητέον εἶναι πάθος τι περὶ τὸ ζῷον ἑαυτοῦ τε
@@ -1075,13 +1076,13 @@ Architecture</p>
   ὀφείλει καὶ τοῦ ποιήσαντος αὐτὴν ἐναργοῦς ἐνδεικτικὴ καθεστάναι. 
   <pb facs="stoicorumveterum02arniuoft_0035"/></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="64"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="64"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. VII 241.</foreign> ἡ φαντασία γίνεται ἤτοι τῶν ἐκτὸς 
   ἢ τῶν ἐν ἡμῖν παθῶν, ὃ δὴ κυριώτερον διάκενος ἑλκυσμὸς παρ’ αὐτοῖς 
   (<foreign xml:lang="lat">scil. Stoicis</foreign>) καλεῖται. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="65"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="65"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. VII 242.</foreign> τῶν δὲ φαντασιῶν πολλαὶ μὲν καὶ 
   ἄλλαι εἰσὶ διαφοραί, ἀπαρκέσουσι δὲ αἱ λεχθησόμεναι. τούτων γὰρ αἱ μέν
@@ -1136,7 +1137,7 @@ Architecture</p>
   ἀπαράλλακτον εὑρεθήσεσθαι ψεῦδος.</p>
   <p rend="indent"><foreign xml:lang="lat">(haec omnia antiquioribus Stoicis tribuit Sextus ibid. 255). Cf. Sextus VIII 67 sq. </foreign></p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="66"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="66"> 
 <p rend="indent">
   <foreign xml:lang="lat">Cicero Acad. Pr. II 47. Nam cum dicatis, inquiunt (scil. novi 
   Academici contra Stoicos disputantes), visa quaedam mitti a deo, velut
@@ -1144,14 +1145,14 @@ Architecture</p>
   － haec enim aiunt probari Stoicis, quos contra disputant － quaerunt,
   quonam modo, falsa visa quae sint, ea deus efficere possit probabilia etc. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="67"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="67"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. VII 405 (Carneades).</foreign> εἰ οὖν καταληπτικαί τινές
   εἰσι φαντασίαι παρόσον ἐπάγονται ἡμᾶς εἰς συγκατάθεσιν καὶ εἰς τὸ τὴν 
   ἀκόλουθον αὐταῖς πρᾶξιν συνάπτειν <foreign xml:lang="lat">etc.</foreign></p>
   <p rend="indent"><foreign xml:lang="lat">Ex Stoicorum sententia hoc dictum esse conexus probat. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="68"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="68"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. VII 424 (Carneades).</foreign> ἵνα γε μὴν αἰσθητικὴ 
   γένηται φαντασία κατ’ αὐτούς (scil. Stoicos), οἷον ὁρατικὴ, δεῖ πέντε συνδραμεῖν, 
@@ -1159,7 +1160,7 @@ Architecture</p>
   πῶς καὶ τὴν διάνοιαν, ὡς ἐὰν τῶν ἄλλων παρόντων ἓν μόνον ἀπῇ, καθάπερ
   διάνοια παρὰ φύσιν ἔχουσα, οὐ σωθήσεται, φασίν, ἡ ἀντίληψις. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="69"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="69"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. VII 426.</foreign> ζητούντων ἡμῶν τίς ἐστιν ἡ καταληπτικὴ
   φαντασία, ὁριζόμενοί φασιν <q>ἡ ἀπὸ ὑπάρχοντος <foreign xml:lang="lat">etc. etc.</foreign></q> εἶτα πάλιν
@@ -1167,14 +1168,14 @@ Architecture</p>
   ἡμῶν τί ποτ’ ἔστι καὶ τὸ ὑπάρχον, ἀναστρέψαντές φασιν ὅτι 
   ὑπάρχον ἐστὶν ὃ κινεῖ καταληπτικὴν φαντασίαν. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="70"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="70"> 
 <p rend="indent">
   <foreign xml:lang="lat">Alexander de anima p. 71, 10. Bruns.</foreign> τὰς δὴ ἀληθεῖς τῶν φαντασιῶν
   καὶ σφοδρὰς εἰώθαμεν λέγειν καὶ καταληπτικάς, τῷ κατάληψιν εἶναι
   τὴν ταῖς τοιαύταις φαντασίαις συγκατάθεσιν, ἀκατάληπτον δὲ φαντασίαν καλοῦμεν
   τήν τε ψευδῆ καὶ τῶν ἀληθῶν τὰς ἀμυδράς. </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="71"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="71"> 
   <head>§2. Περὶ αἰσθἠσεως.</head>
 <p rend="indent">
   <foreign xml:lang="lat">Diocles Magnes apud Diog. Laërt. VII 52.</foreign> αἴσθησις δὲ λέγεται
@@ -1182,10 +1183,10 @@ Architecture</p>
   διῆκον καὶ ἡ δι’ αὐτῶν κατάληψις καὶ ἡ περὶ τὰ αἰσθητήρια κατασκευή,
   καθ’ ἥν τινες πηροὶ γίνονται. καὶ ἡ ἐνέργεια δὲ αἴσθησις καλεῖται. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="72"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="72"> 
   <p rend="indent"><foreign xml:lang="lat">Aët. Plac. IV 8, 12.</foreign> Οἱ Στωϊκοὶ πᾶσαν αἴσθησιν εἶναι συγκατάθεσιν καὶ κατάληψιν. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="73"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="73"> 
 <p rend="indent">
   <foreign xml:lang="lat">Cicero Acad. Pr. II 108. Alterum est, quod negatis actionem
    ullius rei posse in eo esse, qui nullam rem adsensu suo comprobet. Primum
@@ -1194,14 +1195,14 @@ Architecture</p>
    Stoici sensus ipsos ad sensus esse, quos quoniam adpetitio consequatur, 
    actionem sequi; tolli autem omnia, si visa tollantur.</foreign> </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="74"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="74"> 
 <p rend="indent">
   <foreign xml:lang="lat">Porphyrius de anima apud Stobaeum ed. II 349. 23 W.</foreign> τῶν
   ἀπὸ τῆς Στοᾶς τὴν αἴσθησιν οὐκ ἐν τῇ φαντασίᾳ ἱστάντων μόνον, ἀλλὰ
   τὴν οὐσίαν ἀναρτώντων ἀπὸ τῆς συγκαταθέσεως· αἰσθητικῇ γὰρ φαντασίᾳ 
   συγκατάθεσίς ἐστιν ἡ αἴσθησις, τῆς συγκαταθέσεως καθ’ ὁρμὴν οὔσης. </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="75"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="75"> 
 <p rend="indent">
   <foreign xml:lang="lat">Galenus in Hippocr. de medic. officina Vol. XVIII B p. 654 K.</foreign> καὶ 
   μὴν καὶ τοιαύτην ἐξήγησιν ἔγραψάν τινες· οὐ τὸ αὐτὸ σημαίνεσθαί φασιν
@@ -1221,28 +1222,28 @@ Architecture</p>
   καὶ τῇ γνώμῃ.</q> συγκεχρῆσθαι γάρ φησι τῇ τοῦ αἰσθέσθαι φωνῇ τὸν Ἱπποκράτην
   κατὰ τῆς γνώμης. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="76"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="76"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. VIII 185.</foreign> οἱ δὲ ἀπὸ τῆς Στοᾶς καὶ τοῦ
   Περιπάτου μέσην ὁδὸν τέμνοντες ἔνια μὲν ὑποκεῖσθαι τῶν αἰσθητῶν ἔλεξαν 
   ὡς ἀληθῆ, ἔνια δὲ μὴ ὑπάρχειν, ψευδομένης περὶ αὐτῶν τῆς αἰσθήσεως. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="77"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="77"> 
   <p rend="indent"><foreign xml:lang="lat">Cicero Acad. Pr. II 101. Neque nos (scil. Academici) contra
   sensus aliter dicimus ac Stoici, qui multa falsa esse dicunt longeque 
   aliter se habere ac sensibus videantur. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="78"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="78"> 
 <p rend="indent">
   <foreign xml:lang="lat">Aët. Plac. IV 9, 4.</foreign> Οἱ Στωϊκοὶ τὰς μὲν αἰσθήσεις ἀληθεῖς, τῶν
   δὲ φαντασιῶν τὰς μὲν ἀληθεῖς, τὰς δὲ ψευδεῖς. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="79"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="79"> 
 <p rend="indent">
   <foreign xml:lang="lat">Galenus de dignoscendis pulsibus I 5. Vol. VIII p. 793.</foreign> πρῶτα 
   γάρ ἐστιν αἰσθητὰ ἐν τοῖς ἡμετέροις σώμασι τὰ παθήματα, δεύτερα δὲ τὰ τούτων ποιητικὰ ἐκτὸς ὑποκείμενα. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="80"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="80"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. IX 352.</foreign> τοιούτων δὲ ἠπορημένων κατὰ τὸν
   τόπον εἰώθασιν οἱ δογματικοί － λέγειν ὅτι τὸ μὲν ἐκτὸς ὑποκείμενον καὶ 
@@ -1255,12 +1256,12 @@ Architecture</p>
   μέρος, ἀλλὰ πρᾶγμα οὗ ἡμεῖς ἐπικατηγοροῦμεν τὴν ἡμῶν αὐτῶν συμμνημόνευσιν. 
   <pb facs="stoicorumveterum02arniuoft_0038"/></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="81"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="81"> 
 <p rend="indent">
   <foreign xml:lang="lat">Aëti Plac. IV 9, 13.</foreign> Χρύσιππος τὸ μὲν γενικὸν ἡδὺ νοητόν,
   τὸ δὲ εἰδικὸν καὶ προσπῖπτον ἤδη αἰσθητόν. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="82"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="82"> 
   <head>§3. Περὶ ἐννοημάτων.<lb/><foreign xml:lang="lat">Cf. Vol. I n. 65.</foreign></head>
 <p rend="indent">
   <foreign xml:lang="lat">Quae secuntur fragmenta ad Chrysippi doctrinam accommodata
@@ -1270,7 +1271,7 @@ Architecture</p>
    vocabulo saepius usus est, ut in finis bonorum definitione: <foreign xml:lang="grc">ζῆν κατ’ 
    ἐμπειρίαν τῶν φύσει συμβαινόντων</foreign> (III n. 4). </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="83"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="83"> 
 <p rend="indent">
   <foreign xml:lang="lat">Aëtii Plac. IV 11.</foreign> Πῶς γίνεται ἡ αἴσθησις καὶ ἡ ἔννοια καὶ ὁ 
   κατὰ ἐνδιάθεσιν λόγος. <foreign xml:lang="lat">Gal. 92.</foreign> </p>
@@ -1293,14 +1294,14 @@ Architecture</p>
   ὑπάρχει δηνάρια ⟨καὶ⟩ στατῆρες· ἐὰν δὲ εἰς πλοίων δοθῇ μίσθωσιν, τηνικαῦτα
   πρὸς τῷ δηνάρια εἶναι καὶ ναῦλα λέγεται. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="84"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="84"> 
 <p rend="indent">
   <foreign xml:lang="lat">Diocles Magnes apud Diog. Laërt. VII 52.</foreign> ἡ δὲ κατάληψις γίνεται 
   κατ’ αὐτοὺς αἰσθήσει μὲν λευκῶν καὶ μελάνων καὶ τραχέων καὶ λείων,
   λόγῳ δὲ τῶν δι’ ἀποδείξεως συναγομένων, ὥσπερ τοῦ θεοὺς εἶναι καὶ 
   προνοεῖν τούτους. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="85"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="85"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. mat. VIII 409.</foreign> οἱ δὲ (<foreign xml:lang="lat">scil. Stoici</foreign>) καὶ δι’ ὑποδειγμάτων 
   πειρῶνται τὸ ἀξιούμενον παραμυθεῖσθαι (<foreign xml:lang="lat">scil.</foreign> ὅτι τὰ ἀσώματα οὐ
@@ -1315,7 +1316,7 @@ Architecture</p>
   ἔχει φύσιν, τοῦ ἡγεμονικοῦ ἐπ’ αὐτοῖς φαντασιουμένου καὶ οὐχ ὑπ’ 
   αὐτῶν, ὁποῖά ἐστι τὰ ἀσώματα λεκτά. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="86"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="86"> 
 <p rend="indent">
   <foreign xml:lang="lat">Philo de provid. II § 58 (p. 85 Aucher). Quid tamen, quaeso,
    sit unquam species, nisi universalis alicuius comprehensio? Et intellectui
@@ -1323,7 +1324,7 @@ Architecture</p>
    fecunditatem, quae optime est apta ad admovendum sibi singula, occurrentibus 
    signis vel antea conceptis pro naturis inquirendis. </foreign></p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="87"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="87"> 
 <p rend="indent">
   <foreign xml:lang="lat">Diocles Magnes apud. Diog. Laërt. VII 52.</foreign> τῶν－νοουμένων τὰ μὲν 
   κατὰ περίπτωσιν ἐνοήθη, τὰ δὲ καθ’ ὁμοιότητα, τὰ δὲ κατ’ ἀναλογίαν, 
@@ -1338,7 +1339,7 @@ Architecture</p>
   δὲ νοεῖται δίκαιόν τι καὶ ἀγαθόν· καὶ κατὰ στέρησιν, οἷον ἄχειρ. 
     <foreign xml:lang="lat">－ Cf. III n. 72. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="88"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="88"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. VIII 56.</foreign> πᾶσα γὰρ νόησις ἀπὸ αἰσθήσεως γίνεται
   ἢ οὐ χωρὶς αἰσθήσεως, καὶ ἢ ἀπὸ περιπτώσεως ἢ οὐκ ἄνευ περιπτώσεως.
@@ -1350,12 +1351,12 @@ Architecture</p>
   κατὰ παραύξησιν ἢ κατὰ μείωσιν ἢ κατ’ ἐπισύνθεσιν <foreign xml:lang="lat">(sequuntur exempla) 
   cf. id. IX 393-395. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="89"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="89"> 
 <p rend="indent">
   <foreign xml:lang="lat">Galenus defin. medicae 126 Vol. XIX p. 381 K.</foreign> ἐπίνοιά ἐστιν ἐναποκειμένη 
   νόησις· νόησις δὲ λογικὴ φαντασία. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="90">
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="90">
   <head>§4. Κατάληψις, ἐπιστήμη, τέχνη.<lb/><foreign xml:lang="lat"> Cf. Vol. I n. 66-73. 490.</foreign></head>
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. VII 151.</foreign> τρία γὰρ εἶναί φασιν ἐκεῖνοι (<foreign xml:lang="lat">Stoici
@@ -1370,7 +1371,7 @@ Architecture</p>
   σοφοῖς, τὴν δὲ δόξαν ἐν μόνοις τοῖς φαύλοις, τὴν δὲ κατάληψιν
   κοινὴν ἀμφοτέρων εἶναι καὶ ταύτην κριτήριον ἀληθείας καθεστάναι. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="91"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="91"> 
 <p rend="indent">
   <foreign xml:lang="lat">Sextus adv. math. VIII 396.</foreign> ἐπεὶ καὶ οἱ Στωϊκοὶ μάλιστα δοκοῦσιν
   ἐξηκριβωκέναι τοὺς ἀποδεικτικοὺς τρόπους, φέρε καὶ πρὸς τούτους 
@@ -1383,7 +1384,7 @@ Architecture</p>
   γεύσει προσαχθέντος· τὸ δὲ συγκαταθέσθαι τούτῳ τῷ κινήματι ἔκειτο ἐπὶ τῷ 
   παραδεχομένῳ τὴν φαντασίαν. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="92"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="92"> 
 <p rend="indent">
   <foreign xml:lang="lat">Cicero Acad. Pr. II 119. Quamcumque vero sententiam probaverit 
   (scil. sapiens), eam sic animo comprensam habebit ut ea, quae sensibus,
@@ -1394,7 +1395,7 @@ Architecture</p>
   intelligentia per omnia ea permanet et transeat; fore tamen aliquando,
   ut omnis hic mundus ardore deflagret. </foreign></p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="93"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="93"> 
 <p rend="indent">
   <foreign xml:lang="lat">Galenus defin. medicae 7. Vol. XIX p. 350.</foreign> ἐπιστήμη ἐστὶ κατάληψις
   ἀσφαλὴς καὶ ἀμετάπτωτος ὑπὸ λόγου. δυνατὸν δὲ καὶ οὕτως ὁρίσασθαι·
@@ -1403,13 +1404,13 @@ Architecture</p>
   τι τέλος εὔχρηστον τῶν ἐν τῷ βίῳ. ἢ οὕτως· τέχνη ἐστὶ σύστημα ἐκ καταλήψεων
   συγγεγυμνασμένον ἐφ’ ἓν τέλος τὴν ἀναφορὰν ἐχόντων. </p>
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="94"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="94"> 
 <p rend="indent">
   <foreign xml:lang="lat">Scholia in Dionys. Thrac. p. 649 Bekker Anecd. Gr. II.</foreign> Οἱ δὲ
   Στωϊκοὶ λέγουσι· τέχνη ἐστὶ σύστημα ἐκ καταλήψεων ἐμπειρίᾳ συγγεγυμνασμένων
   πρός τι τέλος εὔχρηστον τῶν ἐν τῷ βίῳ. </p> 
 </div> 
-        <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="95"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="95"> 
   <p rend="indent"><foreign xml:lang="lat">Philo de congressu erud. gratia § 141 Vol. III p. 101, 5 Wendl.</foreign>
   Τέχνης μὲν γὰρ ὅρος οὗτος· σύστημα ἐκ καταλήψεων συγγεγυμνασμένων,
   πρός τι τέλος εὔχρηστον (τοῦ εὐχρήστου διὰ τὰς κακοτεχνίας ὑγιῶς προστιθεμένου).
@@ -1478,22 +1479,22 @@ Architecture</p>
     Τὴν δ' ἐπὶ πλέον τῶν λεγομένων χρῆσιν ὑπέδειξεν ὀρθῶς ὁ Χρύσιππος,
     ὅτι δεῖ μετάγειν καὶ διαβιβάζειν ἐπὶ τὰ ὁμοειδῆ τὸ χρήσιμον. ὅ τε 
     γὰρ Ἡσιόδος εἰπών (<foreign xml:lang="lat">Op. et D. 348</foreign>) </p>
-    <lb/><q>οὐδ’ ἄν βοῦς ἀπόλοιτʼ, εἰ μὴ γείτων κακὸς εἴη</q>
+    <p rend="center"><q>οὐδ’ ἄν βοῦς ἀπόλοιτʼ, εἰ μὴ γείτων κακὸς εἴη</q></p>
   <p>καὶ περὶ κυνὸς ταὐτὸ καὶ περὶ ὄνου λέγει καὶ περὶ πάντων ὁμοίως 
     τῶν ἀπολέσθαι δαναμένων. Καὶ πάλιν τοῦ Εὐριπίδου λέγοντος 
-    (<foreign xml:lang="lat">inc. <pb facs="stoicorumveterum02arniuoft_0042"/>fab. fr. 950 N</foreign>)
-   <lb/><q>τίς δ’ ἐστὶ δοῦλος τοῦ θανεῖν ἄφροντις ὤν</q>;
-  ὑπααουστέον ὅτι καὶ περὶ πόνου καὶ νόσου ταὐτὸν εἴρηκεν. </p> 
+    (<foreign xml:lang="lat">inc. <pb facs="stoicorumveterum02arniuoft_0042"/>fab. fr. 950 N</foreign>) </p>
+   <p rend="center"> <q>τίς δ’ ἐστὶ δοῦλος τοῦ θανεῖν ἄφροντις ὤν</q>;</p>
+  <p>ὑπααουστέον ὅτι καὶ περὶ πόνου καὶ νόσου ταὐτὸν εἴρηκεν. </p> 
 </div> 
 <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="101"> 
   <p rend="indent"><foreign xml:lang="lat">Plutarchus quomodo adol. poët. aud. debeat p. 31E.</foreign>
     δεῖ δὲ μηδὲ τῶν ὀνομάτων ἀμελῶς ἀκουειν, ἀλλὰ τὴν μὲν Κλεάνθους 
     παιδιὰν παραιτεῖσθαι· κατειρωνεύεται γὰρ ἔστιν ὅτε προσποιούμενος
-    ἐξηγεῖσθαι τὸ καὶ τὸ
-  <lb/><q>Ζεῦ πάτερ Ἴδηθεν μεδέων</q> (Γ 320)
-  καὶ τὸ
-  <lb/><q>Ζεῦ ἄνα Δωδωναῖε</q>(Π 233)
-  κελεύων ἀναγιγνώσκειν ὑφ’ ἕν, ὡς τὸν ἐκ τῆς γῆς ἀναθυμιώμενον
+    ἐξηγεῖσθαι τὸ καὶ τὸ </p>
+  <p rend="center"><q>Ζεῦ πάτερ Ἴδηθεν μεδέων</q> (Γ 320)</p>
+  <p>καὶ τὸ</p>
+  <p rend="center"><q>Ζεῦ ἄνα Δωδωναῖε</q>(Π 233)</p>
+  <p>κελεύων ἀναγιγνώσκειν ὑφ’ ἕν, ὡς τὸν ἐκ τῆς γῆς ἀναθυμιώμενον
     ἀέρα διὰ τὴν ἀνάδοσιν ἀναδωδωναῖον ὄντα. καὶ Χρύσιππος δὲ 
     πολλαχοῦ γλίσχρος ἐστίν, οὐ παίζων ἀλλ’ εὑρησιλογῶν ἀπιθάνως, καὶ 
     παραβιαζόμενος εὐρυόπα Κρονίδην’ εἶναι τὸν δεινὸν ἐν τῷ διαλέγεσθαι 
@@ -1910,11 +1911,11 @@ Architecture</p>
     ἄνθρωπος οὐχὶ τῷ προφορικῷ λόγῳ διαφέρει τῶν ἀλόγων ζῴων (καὶ γὰρ κόρακες καὶ ψιττακοὶ καὶ κίτται ἐνάρθρους 
     προφέρονται φωνάς) ἀλλὰ τῷ ἐνδιαθέτῳ, οὐδὲ τῇ ἁπλῇ μόνον φαντασίᾳ —  — ἀλλὰ τῇ μεταβατικῇ καὶ συνθετικῇ. 
     διόπερ ἀκολουθίας ἔννοιαν ἔχων εὐθὺς καὶ σημείου νόησιν λαμβάνει διὰ τὴν ἀκολουθίαν. </p>
-  </div> 
+  <p rend="center"><foreign xml:lang="lat">Quae 
+      hic collacavi supplentur Diogenis Babylonii fragmentis <foreign xml:lang="grc">περὶ φωνῆς</foreign> quae in Vol. III edentur.
+      Cf. Vol. I n. 74. 485.</foreign> </p> </div> 
 <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="136">
-  <head><foreign xml:lang="lat">A.</foreign> Περὶ Σημαινόντων, ἢ περὶ φωνῆς. <lb/><foreign xml:lang="lat">Quae 
-    hic collacavi supplentur Diogenis Babylonii fragmentis <foreign xml:lang="grc">περὶ φωνῆς</foreign> quae in Vol. III edentur.</foreign>
-    Cf. Vol. I n. 74. 485.</head>
+  <head><foreign xml:lang="lat">A.</foreign> Περὶ Σημαινόντων, ἢ περὶ φωνῆς.</head>
   <p rend="indent"><foreign xml:lang="lat">Diocles Magnes apud Diog. Laërt. VII 55.</foreign>
     τῆς δὲ διαλεκτικῆς θεωρίας συμφώνως δοκεῖ τοῖς πλείστοις ἀπὸ τοῦ περὶ τῆς φωνῆς ἐνάρχεσθαι τόπου. </p> </div> 
 <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="137"> 
@@ -2083,7 +2084,8 @@ Architecture</p>
 <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="165"> 
   <p rend="indent"><foreign xml:lang="lat">Scholia in Dionys. Thrac. Bekker Anecd. Gr. II p. 891.</foreign>
     Τὸν ἐνεστῶτα οἱ Στωϊκοὶ ἐνεστῶτα παρατατικὸν ὁρίζονται ὅτι παρατείνεται καὶ εἰς μέλλοντα· ὁ γὰρ
-    λέγων <q>ποιῶ</q> καὶ ὅτι ἐποίησέ τι ἐμφαίνει καὶ ὅτι ποιήσει. </p></div> 
+    λέγων <q>ποιῶ</q> καὶ ὅτι ἐποίησέ τι ἐμφαίνει καὶ ὅτι ποιήσει. </p>
+  <p rend="center"> Περὶ Σημαινομένων,<lb/> ἢ Λεκτῶν. <lb/><foreign xml:lang="lat"> Cf. Vol. I n. 488.</foreign></p></div> 
 <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="166"> 
   <head><foreign xml:lang="lat">B.</foreign>Περὶ Σημαινομένων, ῆ Λεκτῶν.<lb/><foreign xml:lang="lat">Cf. Vol. I. n.488</foreign></head>
   <p rend="indent"><foreign xml:lang="lat">Sextus adv. math. VIII 11.</foreign>
@@ -2122,7 +2124,7 @@ Architecture</p>
     Αὐτοί γε μὴν λέγουσι, τοὺς ἀπαγορεύοντας ἄλλο μὲν λέγειν, ἄλλο δ’ ἀπαγορεύειν, ἄλλο δὲ προστάσσειν·
     ὁ γὰρ λέγων, Μὴ κλέψῃς, λέγει μὲν αὐτὸ τοῦτο, Μὴ κλέψῃς, ἀπαγορεύει δὲ ⟨κλέπτειν, προστάσσει δὲ⟩ μὴ 
     κλέπτειν.</p>
-  <p rend="indent">Περὶ ἐναντίων <lb/>καὶ ἀντικειμένων καὶ στερητικῶν.<lb/></p> </div> 
+  <p rend="indent">Περὶ ἐναντίων <lb/>καὶ ἀντικειμένων καὶ στερητικῶν.</p> </div> 
 <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="172">
   <head>§1. Περὶ ἐναντίων <lb/>καὶ ἀντικειμένων καὶ στερητικῶν.</head>
   <p rend="indent"><foreign xml:lang="lat">Scripsit Chrysippus</foreign> περὶ ἀποφατικῶν πρὸς Ἀρισταγόραν γʹ et περὶ τῶν κατὰ στέρησιν λεγομένων 
@@ -2243,7 +2245,7 @@ Architecture</p>
   <p rend="indent"><foreign xml:lang="lat">Papyrus Letronnii <foreign xml:lang="grc">περὶ ἀποφατικῶν</foreign>
     (ed. Brunet Notices et extraits de manuscrits de la bibliothèque impériale. Tome XVIII Paris 1865, 
     Th. Bergk Opusc. II p. 114).</foreign></p> 
-  <p rend="indent"><label>I.</label>(ἐστ)ιν ὅπερ οὕτω λέγοι | (ἄν τι)ς· 
+  <p rend="indent">I.(ἐστ)ιν ὅπερ οὕτω λέγοι | (ἄν τι)ς· 
     <q>Οὐκ οδ’ ὅπως χρὴ | (τὸν σ)αφῶς κατειδότα | (τῆς Ἡ)ρακλείας φροντί-|(δος κ)ατηγορεῖν.</q> Ναὶ 
     <pb facs="stoicorumveterum02arniuoft_0063"/>
     (οὐ ἀλ)ηθὲς ὂν ἔλεγεν ὁ | (ποιητ)ής· <q>Οὐκ οἷδ’ ὅπως | (χρὴ τὸν) σαφῶς κατειδό| (τα τ)ῆς
@@ -2251,205 +2253,224 @@ Architecture</p>
     ἂν· <q>τοί με)ξένον οὐδὲ | (ἀδαήμο)να Μουσᾶν | (ἐπαίδευσ)αν κλυταὶ | (Θῆβαι</q> οὐκ ἀλ)ηθὲς ὂν
     ἐλέ|(χθη ὅπερ λεχ)θείη ἂν οὕτω | <q>(οὔτοι με) ξένον οὐ| (δὲ ἀδαήμ)ονα Μουσᾶν ἐ|(παίδευσ)αν κλυταὶ
       Θῆβαι.</q> | (ναί· οὔ)τε ψευδῶς | (οὕτ’ ἀληθῶς) οὕτω λέγοι | (τις ἄν· <q>τοί) με ξένον | (οὐδὲ 
-        ἀδαήμ)ονα Μου| (σᾶν ἐπαίδευ)σαν κλυταὶ (Θῆβαι.</q> ναὶ ο)ὐ· ἀληθὲς ἐ|(λέχθη ὅπερ) λεχθείη ἂν <label>II.</label>
-    οὕτως· <q>οὔτοι με ξένον οὐδὲ | ἀδαήμονα Μουσᾶν ἐπαί|δευσαν κλυταὶ Θῆβαι.</q></p> 
-<p rend="indent"><label>3.</label> Εἰ ἀληθῶς τις τῶν ποιη|τῶν οὕτως ἀπεφαίνετο | 
+        ἀδαήμ)ονα Μου| (σᾶν ἐπαίδευ)σαν κλυταὶ (Θῆβαι.</q> ναὶ ο)ὐ· ἀληθὲς ἐ|(λέχθη ὅπερ) λεχθείη ἂν II.
+    οὕτως· <q>οὔτοι με ξένον οὐδὲ | ἀδαήμονα Μουσᾶν ἐπαί|δευσαν κλυταὶ Θῆβαι.</q> </p>
+<p rend="indent">3. Εἰ ἀληθῶς τις τῶν ποιη|τῶν οὕτως ἀπεφαίνετο | 
 <lb/><q>Οὔ μοι Σαρδανάπαλλος ἀρέσκει τὴν διάνοιαν</q> 
-ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>Οὔ μοι － διάνοιαν</q> 
-ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>Οὔ μοι － διάνοιαν.</q> 
-ναὶ οὐ ἀληθῶς τις τῶν ποιητῶν οὕτως ἀπεφαίνετο· 
-<lb/><q>Οὔ μοι － διάνοιαν.</q></p> 
-    <p rend="indent"><label>4.</label> Εἰ ἀπεφήνατό τις· (<foreign xml:lang="lat">trag. fr. adesp. 83 Nauck</foreign>) 
+<lb/>ναὶ οὐ ἀληθῶς τις τῶν ποιητῶν οὕτως ἀπεφαίνετο· 
+<lb/><q>Οὔ μοι － διάνοιαν.</q> </p>
+    <p rend="indent">4. Εἰ ἀπεφήνατό τις· (<foreign xml:lang="lat">trag. fr. adesp. 83 Nauck</foreign>) 
 <lb/><q>Οὐκ ἦν ἄρ’ οὐθὲν πῆμ’ ἐλευθέραν δάκνον 
 <lb/>Ψυχὴν ὁμοίως ἀνδρὸς ὡς ἀτιμία.</q> 
-ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>Οὐκ ἦν —  — ἀτιμία.</q> 
-ναὶ οὐ ἀπεφήνατό τις· 
-<lb/><q>Οὐκ ἦν —  — ἀτιμία.</q></p> 
-    <p rend="indent"><label>5.</label> (Εἰ ἀληθῶς) οὕτως ἀπέφασκεν Εὐριπίδης· (<foreign xml:lang="lat">Iphig. Aul. 28</foreign>) 
+<lb/>ναὶ οὐ ἀπεφήνατό τις· 
+<lb/><q>Οὐκ ἦν —  — ἀτιμία.</q> </p>
+    <p rend="indent">5. (Εἰ ἀληθῶς) οὕτως ἀπέφασκεν Εὐριπίδης· (<foreign xml:lang="lat">Iphig. Aul. 28</foreign>) 
 <lb/><q>Οὐκ ἄγαμαι ταῦτ’ ἀνδρὸς ἀριστέως.</q> 
-ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>Οὐκ － ἀριστέως.</q> 
-ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ 
+<lb/>ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ 
 <lb/><q>Οὐκ － ἀριστέως.</q> 
-ναὶ οὐ ἀπέφασκεν οὕτως Εὐριπίδης· 
-<lb/><q>Οὐκ － ἀριστέως.</q> </p>
-<p rend="indent"><label>6.</label> Εἰ Ἀνδρομάχη Εὐριπίδου πρὸς Ἑρμιόνην τοῦτον ἀπεφήνατο τὸν τρόπον· (<foreign xml:lang="lat">Androm. 205</foreign>) 
+<lb/>ναὶ οὐ ἀπέφασκεν οὕτως Εὐριπίδης· 
+<lb/><q>Οὐκ － ἀριστέως.</q></p> 
+<p rend="indent">6. Εἰ Ἀνδρομάχη Εὐριπίδου πρὸς Ἑρμιόνην τοῦτον ἀπεφήνατο τὸν 
+    <lb/>τρόπον· (<foreign xml:lang="lat">Androm. 205</foreign>) 
 <lb/><q>Οὐκ ἐξ ἐμῶν σε φαρμάκων στυγεῖ πόσις</q> 
-ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>Οὐκ ἐξ － πόσις</q> 
 <pb facs="stoicorumveterum02arniuoft_0064"/>
-ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>Οὐκ ἐξ － πόσις</q> 
-ναὶ οὐ Ἀνδρομάχη Εὐριπίδου πρὸς Ἑρμιόνην ἀπεφήνατο τοῦτον τὸν τρόπον· 
+<lb/>ναὶ οὐ Ἀνδρομάχη Εὐριπίδου πρὸς Ἑρμιόνην ἀπεφήνατο τοῦτον 
+<lb/>τὸν τρόπον· 
 <lb/><q>Οὐκ ἐξ － πόσις</q></p> 
-    <p rend="indent"><label>7.</label> Εἱ ἀληθές ἐστιν, ὅπερ οὕτω λεχθείη ἄν· (<foreign xml:lang="lat">Eur. Stheneb. f. 662 N</foreign>) 
+    <p rend="indent">7. Εἱ ἀληθές ἐστιν, ὅπερ οὕτω λεχθείη ἄν· (<foreign xml:lang="lat">Eur. Stheneb. f. 662 N</foreign>) 
 <lb/><q>Οὐκ ἔστιν ὅστις πάντ’ ἀνὴρ εὐδαιμονεῖ.</q> 
-ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>Οὐκ ἔστιν － εὐδαιμονεῖ.</q> 
-ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>Οὐκ ἔστιν － εὐδαιμονεῖ.</q> 
-<label>V.</label> ναὶ οὐ ἀληθές ἐστιν ὅπερ οὕτω λεχθείη ἄν·</p> 
-<lb/><q>Οὐκ ἔστιν － εὐδαιμονεῖ.</q> 
-    <p rend="indent"><label>8.</label> Εἰ ἀληθὲς ὃν ἔλεγεν Εὐριπίδης· (<foreign xml:lang="lat">inc. fab. fr. 896 N.</foreign>) 
+<lb/>V. ναὶ οὐ ἀληθές ἐστιν ὅπερ οὕτω λεχθείη ἄν· 
+<lb/><q>Οὐκ ἔστιν － εὐδαιμονεῖ.</q> </p>
+    <p rend="indent">8. Εἰ ἀληθὲς ὃν ἔλεγεν Εὐριπίδης· (<foreign xml:lang="lat">inc. fab. fr. 896 N.</foreign>) 
 <lb/><q>Οὐκ ἐν γυναιξὶ τοὺς νεανίας χρεών, 
 <lb/>ἀλλ’ ἐν σιδήρῳ κἀν ὅπλοις τιμὰς ἔχειν.</q> 
-ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>Οὐκ ἐν － τιμὰς ἔχειν.</q> 
-ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>Οὐκ ἐν － τιμὰς ἔχειν.</q> 
-ναὶ οὐ ἀληθὲς ὂν ἔλεγεν Εὐριπίδης· 
-<lb/><q>Οὐκ ἐν － τιμὰς ἔχειν.</q></p> 
-    <p rend="indent"><label>9.</label> Εἰ ποιητής τις οὕτως ἀπεφήνατο· (<foreign xml:lang="lat">lyr. fr. adesp. 5 Bgk.</foreign>) 
-<lb/><label>VI.</label> <q>Οὐ μοι ἔτ’ εὐκελάδων ὕμνων μέλει οὐδ’ ἔτι μολπῆς.</q> 
-φάσις ἐστὶν ὅπερ οὕτω λεχθείη ἄν· 
+<lb/>ναὶ οὐ ἀληθὲς ὂν ἔλεγεν Εὐριπίδης· 
+<lb/><q>Οὐκ ἐν － τιμὰς ἔχειν.</q> </p>
+    <p rend="indent">9. Εἰ ποιητής τις οὕτως ἀπεφήνατο· (<foreign xml:lang="lat">lyr. fr. adesp. 5 Bgk.</foreign>) 
+<lb/>VI. <q>Οὐ μοι ἔτ’ εὐκελάδων ὕμνων μέλει οὐδ’ ἔτι μολπῆς.</q> 
+<lb/>φάσις ἐστὶν ὅπερ οὕτω λεχθείη ἄν· 
 <lb/><q>μοι ἔτ’ —  — μολπῆς.</q> 
-ναὶ οὐ φάσις ἐστὶν ὅπερ οὕτω λεχθείη ἄν· 
+<lb/>ναὶ οὐ φάσις ἐστὶν ὅπερ οὕτω λεχθείη ἄν· 
 <lb/><q>μοι ἔτ’ － μολπῆς.</q> 
-ναὶ οὐ ποιητής τις οὕτως ἀπεφήνατο· 
+<lb/>ναὶ οὐ ποιητής τις οὕτως ἀπεφήνατο· 
 <lb/><q>οὔ μοι ἔτ’ － μολπῆς.</q> 
-Εἰ ποιητής τις οὕτως ἀπεφήνατο· 
+<lb/>Εἰ ποιητής τις οὕτως ἀπεφήνατο· 
 <lb/><q>Οὔ μοι ἔτ’ － μολπῆς.</q> 
-ἀντίκειται τῷ· 
+<lb/>ἀντίκειται τῷ· 
 <lb/><q>Οὔ μοι ἔτ’ － μολπῆς.</q> 
-ἀξίωμα καταφατικόν. Ναὶ οὐ ἀντίκειται τῷ· 
+<lb/>ἀξίωμα καταφατικόν. Ναὶ οὐ ἀντίκειται τῷ· 
 <lb/><q>Οὔ μοι ἔτ’ － μολπῆς.</q> 
-ἀξίωμα καταφατικόν. Ναὶ οὐ ποιητής τις οὕτως ἀπεφήνατο· 
-<lb/><q>Οὔ μοι ἔτ’ － μολπῆς.</q></p> 
-<p rend="indent"><label>10.</label> Εἰ Κύκλω ὁ τοῦ Τιμοθέου πρός τινα οὕτως ἀπεφήνατο· <pb facs="stoicorumveterum02arniuoft_0065"/>
-    <lb/><label>VII.</label><foreign xml:lang="lat"> (Timoth. fr. 4)</foreign> 
+<lb/>ἀξίωμα καταφατικόν. Ναὶ οὐ ποιητής τις οὕτως ἀπεφήνατο· 
+<lb/><q>Οὔ μοι ἔτ’ － μολπῆς.</q> </p>
+<p rend="indent">10. Εἰ Κύκλω ὁ τοῦ Τιμοθέου πρός τινα οὕτως ἀπεφήνατο· 
+<pb facs="stoicorumveterum02arniuoft_0065"/>
+    <lb/>VII.<foreign xml:lang="lat"> (Timoth. fr. 4)</foreign> 
 <lb/><q>Οὔτοί τόν γ’ ὑπεραμπέχοντ’ οὐρανὸν εἰσαναβήσει.</q> 
-ἀντίκειται ἑνὶ καταφατικῷ ἀξιώματι δύο ἀποφατικὰ ἀξιώματα. 
-ναὶ οὐ ἀντίκειται ἑνὶ καταφατικῷ ἀξιώματι δύο ἀποφατικὰ ἀξιώματα. 
-ναὶ οὐ Κύκλωψ ὁ τοῦ Τιμοθέου πρός τινα οὕτως ἀπεφήνατο· <q>Οὔτοι τόν － εἰσαναβήσει.</q></p> 
-    <p rend="indent"><label>11.</label> Εἰ οὕτως ἀπεφήνατό τις· (<foreign xml:lang="lat">trag. fr. adesp. 78 N.</foreign>) 
+<lb/>ἀντίκειται ἑνὶ καταφατικῷ ἀξιώματι δύο ἀποφατικὰ ἀξιώματα. 
+<lb/>ναὶ οὐ ἀντίκειται ἑνὶ καταφατικῷ ἀξιώματι δύο ἀποφατικὰ ἀξιώματα. 
+<lb/>ναὶ οὐ Κύκλωψ ὁ τοῦ Τιμοθέου πρός τινα οὕτως ἀπεφήνατο· <q>Οὔτοι τόν － εἰσαναβήσει.</q> </p>
+    <p rend="indent">11. Εἰ οὕτως ἀπεφήνατό τις· (<foreign xml:lang="lat">trag. fr. adesp. 78 N.</foreign>) 
 <lb/><q>Οὐκ οἶδα· τἀληθὲς γὰρ ἀσφαλὲς φράσαι.</q> 
-ἀποφαίνοιτ’ ἄν τις· 
+<lb/>ἀποφαίνοιτ’ ἄν τις· 
 <lb/><q>[οὐκ] οἶδα － φράσαι.</q> 
-ναὶ οὐ ἀποφαίνοιτ’ ἄν τις· 
+<lb/>ναὶ οὐ ἀποφαίνοιτ’ ἄν τις· 
 <lb/><q>[κ] οἶδα － φράσαι.</q> 
-ναὶ οὐ οὕτως ἀπεφαίνετό τις· 
-<lb/><q>οὐκ οἶδαι － φράσαι.</q></p>
-    <p rend="indent"><label>12.</label> Εἰ οὕτως ἀποφαίνοιτ’ ἄν τις· (<foreign xml:lang="lat">Thesp. fr. 2 N.</foreign>) 
-<lb/><label>VIII.</label> <q>[κ] ἐξαθρήσας οἷδʼ· ἰδῶν δέ σοι λέγω.</q> 
-Θέσπις ὁ ποιητὴς οὕτως ἀπέφασκεν· 
+<lb/>ναὶ οὐ οὕτως ἀπεφαίνετό τις· 
+<lb/><q>οὐκ οἶδαι － φράσαι.</q></p> 
+    <p rend="indent">12. Εἰ οὕτως ἀποφαίνοιτ’ ἄν τις· (<foreign xml:lang="lat">Thesp. fr. 2 N.</foreign>) 
+<lb/>VIII. <q>[κ] ἐξαθρήσας οἷδʼ· ἰδῶν δέ σοι λέγω.</q> 
+<lb/>Θέσπις ὁ ποιητὴς οὕτως ἀπέφασκεν· 
 <lb/><q>οὐκ ἐξαθρήσας οἷδʼ· ἰδὼν δέ σοι λέγω.</q> 
-ναὶ οὐ οὕτως ἀποφαίνοιτ’ ἄν τις· 
+<lb/>ναὶ οὐ οὕτως ἀποφαίνοιτ’ ἄν τις· 
 <lb/><q>[κ] ἐξαθρήσας οἱδʼ· ἰδὼν δέ σοι λέγω.</q> 
-ναὶ οὐ Θέσπις ὁ ποιητὴς οὕτως ἀπέφασκεν 
-<lb/><q>οὐκ ἐξαθρήσας· οἶδʼ· ἰδὼν δέ σοι λέγω.</q></p>
-    <p rend="indent"><label>13.</label> Εἰ Σαπφὼ οὕτως ἀπεφήνατο· (<foreign xml:lang="lat">fr. 69 Bgk.</foreign>) 
+<lb/>ναὶ οὐ Θέσπις ὁ ποιητὴς οὕτως ἀπέφασκεν 
+<lb/><q>οὐκ ἐξαθρήσας· οἶδʼ· ἰδὼν δέ σοι λέγω.</q> </p>
+    <p rend="indent">13. Εἰ Σαπφὼ οὕτως ἀπεφήνατο· (<foreign xml:lang="lat">fr. 69 Bgk.</foreign>)
 <lb/><q>οὐδ’ ἴαν δοκίμοιμι προσιδοῖσαν φάος ἀλίω 
 <lb/>ἔσσεσθαι σοφίαν παρθένον εἰς οὐδένα πω χρόνον 
 <lb/>τοιαύταν.</q> 
-ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>οὐδ’ ἴαν —  — － τοιαύταν.</q> 
-ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ·
-<label>IX.</label> <q>οὐδ’ ἴαν —  — － τοιαύταν.</q> 
-ναὶ οὐ Σαπφὼ οὕτως ἀπεφαίνετο· 
+<lb/>ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>IX. <q>οὐδ’ ἴαν —  — － τοιαύταν.</q> 
+<lb/>ναὶ οὐ Σαπφὼ οὕτως ἀπεφαίνετο· 
 <lb/><q>οὐδ’ ἴαν —  — － τοιαύταν.</q></p> 
-    <p rend="indent"><label>14.</label> Εἰ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· (<foreign xml:lang="lat">Ibyc. fr. 27 Bgk.</foreign>) 
+    <p rend="indent">14. Εἰ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· (<foreign xml:lang="lat">Ibyc. fr. 27 Bgk.</foreign>) 
 <lb/><q>οὐκ ἔστιν ἀποφθιμένοις ζωᾶς ἔτι φάρμακον εὑρεῖν.</q> 
-οὐκ [ὁ] Ἴβυκος ὁ ποιητὴς οὕτως ἀ(πε)φαίνετ(ο)· 
+<lb/>οὐκ [ὁ] Ἴβυκος ὁ ποιητὴς οὕτως ἀ(πε)φαίνετ(ο)· 
 <lb/><q>οὐκ ἔστιν —  — － εὑρεῖν.</q> 
-ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
-<lb/><q>οὐκ ἔστιν —  — － εὑρεῖν.</q> <pb facs="stoicorumveterum02arniuoft_0066"/>
-ναὶ οὐ Ἴβυκος ὁ ποιητὴς οὕτως ἀπεφαίνετο· 
+<lb/>ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/><q>οὐκ ἔστιν —  — － εὑρεῖν.</q> 
+<pb facs="stoicorumveterum02arniuoft_0066"/>
+<lb/>ναὶ οὐ Ἴβυκος ὁ ποιητὴς οὕτως ἀπεφαίνετο· 
 <lb/><q>οὐκ ἔστιν —  — － εὑρεῖν.</q></p> 
-<p rend="indent"><label>15.</label> Εἰ οὐ εἰσὶν ἀμφίβολοι διάλεκτοι, οὐ Εὐριπίδης οὕτως ἀποφηνά- 
+<p rend="indent">15. Εἰ οὐ εἰσὶν ἀμφίβολοι διάλεκτοι, οὐ Εὐριπίδης οὕτως ἀποφηνά- 
     <lb/>μενος· (<foreign xml:lang="lat">Eur. Dictys fr. 344 N.</foreign>) 
 <lb/><q>οὐκ ἂν γένοιτο χρηστὸς ἐκ κακοῦ πατρός.</q> 
-[ἀπέφασκεν· 
+<lb/>[ἀπέφασκεν· 
 <lb/><q>ἂν γένοιτο － πατρός.</q> 
-ναὶ οὐ εἰσὶν ἀμφίβολοι διάλεκτοι· ναὶ οὐ Εὐριπίδης, οὕτως ἀποφηνάμενος· 
+<lb/>ναὶ οὐ εἰσὶν ἀμφίβολοι διάλεκτοι· ναὶ οὐ Εὐριπίδης, οὕτως ἀπο- 
+<lb/>φηνάμενος· 
 <lb/><q>οὐκ ἂν γένοιτο － πατρός.</q> 
-ἀπέφασκεν· 
+<lb/>ἀπέφασκεν· 
 <lb/><q>ἂν γένοιτο － πατρός.</q></p> 
-<p rend="indent"><label>16.</label> Εἰ ἢ ψεῦδος ἢ ἀληθές ἐστιν, ὃ ἐλέχθη ὑπ’ Εὐριπίδου τὸν τρόπον 
+<p rend="indent">16. Εἰ ἢ ψεῦδος ἢ ἀληθές ἐστιν, ὃ ἐλέχθη ὑπ’ Εὐριπίδου τὸν τρόπον 
     <lb/>τοῦτον· (<foreign xml:lang="lat">Eur. Hel. 1261</foreign>) 
 <lb/><q>οὐχ ὧδε ναύτας ὀλομένους τυμβεύομεν.</q> 
-<label>X.</label> ἀντί]κειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>X. ἀντί]κειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>οὐχ ὧδε —  — τυμβεύομεν.</q> 
-ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>οὐχ ὧδε —  — τυμβεύομεν.</q> 
-ναὶ οὔτε ψεῦδος οὔτε ἀληθές ἐστιν (ὃ ἐλέχθη) ὑπ’ Εὐριπίδου τὸν τρόπον τοῦτον· 
+<lb/>ναὶ οὔτε ψεῦδος οὔτε ἀληθές ἐστιν (ὃ ἐλέχθη) ὑπ’ Εὐριπίδου τὸν 
+<lb/>τρόπον τοῦτον· 
 <lb/><q>οὐχ ὧδε —  — τυμβεύομεν.</q></p> 
-    <p rend="indent"><label>17.</label> (Εἰ) ἀληθῶς Εὐριπίδης (ἔλ)εγεν· (<foreign xml:lang="lat">Eur. Phoenix fr. 814 N.</foreign>) 
+    <p rend="indent">17. (Εἰ) ἀληθῶς Εὐριπίδης (ἔλ)εγεν· (<foreign xml:lang="lat">Eur. Phoenix fr. 814 N.</foreign>) 
 <lb/><q>οὐκ ἔστι (τοῦ θρ)έψαντος ἥδιον πέδον.</q> 
-ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>οὐκ ἔστι —  — πέδον.</q> 
-ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>οὐκ ἔστι —  — πέδον.</q> 
-ναὶ οὐ ἀληθῶς Εὐριπίδης ἔλεγεν· 
+<lb/>ναὶ οὐ ἀληθῶς Εὐριπίδης ἔλεγεν· 
 <lb/><q>οὐκ ἔστι —  — πέδον.</q></p> 
-    <p rend="indent"><label>18.</label> Εἰ Εὐριπίδης οὕτως ἀπεφαίνετο· (<foreign xml:lang="lat">Eur. Suppl. 270</foreign>) 
+    <p rend="indent">18. Εἰ Εὐριπίδης οὕτως ἀπεφαίνετο· (<foreign xml:lang="lat">Eur. Suppl. 270</foreign>) 
 <lb/><q>οὐκ ἔστιν οὐθὲν διὰ τέλους εὐδαιμονεῖν.</q> 
-ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/>ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
 <lb/><q>οὐκ ἔστιν － εὐδαιμονεῖν.</q> 
-ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
-<lb/><q>οὐκ ἔστιν － εὐδαιμονεῖν.</q><pb facs="stoicorumveterum02arniuoft_0067"/>
-ναὶ οὐ Εὐριπίδης οὕτως ἀπεφαίνετο· 
-<lb/><q>οὐκ ἔστιν － εὐδαιμονεῖν.</q></p> 
-    <p rend="indent"><label>19.</label> Εἰ οὕτως ἀπεφαίνετό τις τῶν ποιητῶν· (<foreign xml:lang="lat">trag. fr. adesp. 79 N.</foreign>) 
+<lb/>ναὶ οὐ ἀντίκειται ἀξίωμα καταφατικὸν τῷ· 
+<lb/><q>οὐκ ἔστιν － εὐδαιμονεῖν.</q> 
+<pb facs="stoicorumveterum02arniuoft_0067"/>
+<lb/>ναὶ οὐ Εὐριπίδης οὕτως ἀπεφαίνετο· 
+<lb/><q>οὐκ ἔστιν － εὐδαιμονεῖν.</q> </p>
+    <p rend="indent">19. Εἰ οὕτως ἀπεφαίνετό τις τῶν ποιητῶν· (<foreign xml:lang="lat">trag. fr. adesp. 79 N.</foreign>) 
 <lb/><q>οὐκ ἀξιῶ μικ(ρ)ῶν σε· μεγάλα δ’ οὐκ ἔχω.</q> 
-ἔστιν τις ὃς οὕτως ἀποφαίνοιτ’ ἄν· 
+<lb/>ἔστιν τις ὃς οὕτως ἀποφαίνοιτ’ ἄν· 
 <lb/><q>ἀξιῶ μικ(ρ)ῶν － ἔχω.</q> 
-ναὶ οὐ ἔστιν τις ὃς οὕτως ἀποφαίνοιτ’ ἄν· 
+<lb/>ναὶ οὐ ἔστιν τις ὃς οὕτως ἀποφαίνοιτ’ ἄν· 
 <lb/><q>[κ] ἀξιῶ μικ(ρ)ῶν － ἔχω.</q> 
-ναὶ οὐ ἀπεφαίνετό τις τῶν ποιητῶν οὕτως· 
+<lb/>ναὶ οὐ ἀπεφαίνετό τις τῶν ποιητῶν οὕτως· 
 <lb/><q>οὐκ ἀξιῶ —  — ἔχω.</q></p> 
-    <p rend="indent"><label>20.</label> Εἰ Ἀγαμέμνων οὕτως ἀπέφασκεν· (<foreign xml:lang="lat">Cypriorunm fr. 13 K.</foreign>) 
+    <p rend="indent">20. Εἰ Ἀγαμέμνων οὕτως ἀπέφασκεν· (<foreign xml:lang="lat">Cypriorunm fr. 13 K.</foreign>) 
+<lb/>
 <lb/><q>οὐκ ἐφάμην Ἀχιλῆι χολώσειν ἄλκιμον ἧτορ 
-ὧδε μάλ’ ἐκπάγλως, ἐπειδὴ μάλα μοι φίλος ἤην.</q> 
-ἀξίωμά ἐστιν· 
+<lb/>ὧδε μάλ’ ἐκπάγλως, ἐπειδὴ μάλα μοι φίλος ἤην.</q> 
+<lb/>ἀξίωμά ἐστιν· 
 <lb/><q>[κ] ἐφάμην Ἀχιλῆι —  — ἤην.</q> 
-ναὶ οὐκ ἀξίωμά ἐστιν· 
+<lb/>ναὶ οὐκ ἀξίωμά ἐστιν· 
 <lb/><q>[κ] ἐφάμην Ἀχιλῆι —  — ἤην.</q> 
-ναὶ οὐ Ἀγαμέμνων οὕτως ἀπέφασκεν· 
-<lb/><q>οὐκ ἐφάμην —  — － ἤην.</q></p> 
-    <p rend="indent"><label>21.</label> Εἰ Ἀλκμὰν ὁ ποιητὴς οὕτως ἀπεφαίνετο· (<foreign xml:lang="lat">Alcm. fr. 25</foreign>) 
+<lb/>ναὶ οὐ Ἀγαμέμνων οὕτως ἀπέφασκεν· 
+<lb/><q>οὐκ ἐφάμην —  — － ἤην.</q> </p>
+    <p rend="indent">21. Εἰ Ἀλκμὰν ὁ ποιητὴς οὕτως ἀπεφαίνετο· (<foreign xml:lang="lat">Alcm. fr. 25</foreign>) 
 <lb/><q>οὐκ ἦς ἀνὴρ ἄγροικος οὐδὲ σκαιός.</q> 
-καταφάσκοι ἄν τις· 
+<lb/>καταφάσκοι ἄν τις· 
 <lb/><q>[κ] ἦς ἀνὴρ － σκαιός.</q> 
-ναὶ οὐ καταφάσκοι ἄν τις· 
+<lb/>ναὶ οὐ καταφάσκοι ἄν τις· 
 <lb/><q>[κ] ἦς ἀνὴρ － σκαιός.</q> 
-ναὶ οὐκ Ἀλκμὰν ὁ ποιητὴς οὕτως ἀπεφαίνετο· 
+<lb/>ναὶ οὐκ Ἀλκμὰν ὁ ποιητὴς οὕτως ἀπεφαίνετο· 
 <lb/><q>οὐκ ἦς —  — σκαιός.</q></p> 
-    <p rend="indent"><label>22.</label> Εἱ οὕτως ἀποφαίνοιτ’ ἄν τις· (<foreign xml:lang="lat">Anacr. fr. 15</foreign>) 
+    <p rend="indent">22. Εἱ οὕτως ἀποφαίνοιτ’ ἄν τις· (<foreign xml:lang="lat">Anacr. fr. 15</foreign>) 
 <lb/><q>[οὐ]δηὖτ’ ἔμπεδός εἰμι, 
 <lb/>οὐδ’ ἀστοῖσι προσηνής,</q> 
-οὐ Ἀνακρέων οὕτως ἀπεφήνατο· 
-<lb/><q>οὐ δηὖτ’ － προσηνής·</q> 
-ναὶ οὐ οὕτως ἀποφαίνοιτ’ ἄν τις· 
+<lb/>οὐ Ἀνακρέων οὕτως ἀπεφήνατο· 
+<lb/>οὐ δηὖτ’ － προσηνής· 
+<lb/>ναὶ οὐ οὕτως ἀποφαίνοιτ’ ἄν τις· 
 <lb/><q>δηὖτ’ —  — προσηνής.</q> 
-ναὶ οὐ Ἀνακρέων οὕτως ἀπεφήνατο· 
-<lb/><q>οὐ δηὖτ’ —  — προσηνής.</q></p> 
-    <p rend="indent"><label>23.</label> Εἰ Σαπφὼ οὕτως ἀποφαινομένη· (<foreign xml:lang="lat">Sappho fr. 36</foreign>) 
-<lb/><q>οὐκ οἶδ’ ὅττι θέω· δύο μοι τὰ νοήματα.</q><pb facs="stoicorumveterum02arniuoft_0068"/>
-ἀπέφασκεν· 
+<lb/>ναὶ οὐ Ἀνακρέων οὕτως ἀπεφήνατο· 
+<lb/><q>οὐ δηὖτ’ —  — προσηνής.</q> </p>
+    <p rend="indent">23. Εἰ Σαπφὼ οὕτως ἀποφαινομένη· (<foreign xml:lang="lat">Sappho fr. 36</foreign>) 
+<lb/><q>οὐκ οἶδ’ ὅττι θέω· δύο μοι τὰ νοήματα.</q> 
+<lb/>180 
+<pb facs="stoicorumveterum02arniuoft_0068"/>
+<lb/>ἀπέφασκεν· 
 <lb/><q>οἶδ’ ὅττι —  — νοήματα.</q> 
-εἰσὶν ἀμφίβολοι διάλεκτοι. ναὶ οὐ εἰσὶν ἀμφίβολοι διάλεκτοι. ναὶ οὐ Σαπφὼ οὕτως ἀποφαινομένη· 
+<lb/>εἰσὶν ἀμφίβολοι διάλεκτοι. ναὶ οὐ εἰσὶν ἀμφίβολοι διάλεκτοι. 
+<lb/>ναὶ οὐ Σαπφὼ οὕτως ἀποφαινομένη· 
 <lb/><q>οὐκ οἶδ’ ὅττι —  — νοήματα.</q> 
-ἀπέφασκεν· 
+<lb/>ἀπέφασκεν· 
 <lb/><q>οἶδ’ ὅττι —  — νοήματα.</q> 
-Εἰ Σαπφὼ οὕτως ἀπέφασκεν· 
+<lb/>Εἰ Σαπφὼ οὕτως ἀπέφασκεν· 
 <lb/><q>οὐκ οἶδ’ —  — νοήνατα.</q> 
-ἔστιν τι καταφατικὸν ἀξίωμα ἀντικείμενον τῷ· 
+<lb/>ἔστιν τι καταφατικὸν ἀξίωμα ἀντικείμενον τῷ· 
 <lb/><q>οὐκ οἶδ’ —  — νοήματα.</q> 
-ναὶ οὐ ἔστιν τι καταφατικὸν ἀξίωμα ἀντικείμενον τῷ· 
+<lb/>ναὶ οὐ ἔστιν τι καταφατικὸν ἀξίωμα ἀντικείμενον τῷ· 
 <lb/><q>οὐκ οἶδ’ —  — νοήματα.</q> 
-ναὶ οὐ Σαπφὼ οὕτως ἀπέφασκεν· 
+<lb/>ναὶ οὐ Σαπφὼ οὕτως ἀπέφασκεν· 
 <lb/><q>οὐκ οἶδ’ —  — νοήματα.</q></p> 
-    <p rend="indent"><label>24.</label> Εἰ ποιητής τις οὕτως ἀπεφαίνετο· (<foreign xml:lang="lat">lyr. fr. adesp. 106 Bgk.</foreign>) 
+    <p rend="indent">24. Εἰ ποιητής τις οὕτως ἀπεφαίνετο· (<foreign xml:lang="lat">lyr. fr. adesp. 106 Bgk.</foreign>) 
 <lb/><q>οὐκ εἶδον ἀνεμωκέα κόραν.</q> 
-ἔστιν τι καταφατικὸν ἀξίωμα ἀντικείμενον τῷ· 
+<lb/>ἔστιν τι καταφατικὸν ἀξίωμα ἀντικείμενον τῷ· 
 <lb/><q>οὐκ εἶδον － κόραν.</q> 
-ναὶ οὐ ἔστιν τι καταφατικὸν ἀξίωμα ἀντικείμενον τῷ· 
-<lb/><q>οὐ</q> || </p>
-  <p>tredecim versus desiderantur</p>
-<p rend="indent">| α κό(ραν . .  . . . . | καταφατ(ικῷ δύο ἀξιώ)|ματα ἀπ(οφατικὰ ἀν)|τίκειται . . . . . . . . . | δέχεται . . . . . . . . . | σιω κάκεῖνα . . . . . | ἀποφαιν . . . . . . . . |κ εἶδον ἀνεμωκέα κό|ραν ἀποφ . . . . . . . . . | νεμωκέα κόραν . . . . | των ου ειδ . . . . | </p> 
+<lb/>ναὶ οὐ ἔστιν τι καταφατικὸν ἀξίωμα ἀντικείμενον τῷ· 
+<lb/><q>οὐ</q> || 
+  <lb/>tredecim versus desiderantur
+<lb/>| α κό(ραν . .  . . . . 
+<lb/>| καταφατ(ικῷ δύο ἀξιώ)|ματα ἀπ(οφατικὰ ἀν)|τί- 
+<lb/>κειται . . . . . . . . . 
+<lb/>| δέχεται . . . . . . . . . | σιω κάκεῖνα . . . . . | ἀποφαιν . . . . 
+<lb/>. . . . |κ εἶδον ἀνεμωκέα κό|ραν ἀποῳ . . . . . . . . . 
+<lb/>| νεμωκέα κόραν . . . . | 
+<lb/>των ου ειδ . . . . | 
+</p> 
+<p> Λεκτὰ ἐλλιπῆ.</p>
 </div> 
 <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="181"> 
   <head>§2. Λεκτὰ ἐλλιπῆ.</head>
@@ -2828,7 +2849,7 @@ Architecture</p>
 <lb/>Περὶ ἀληθοῦς διεζευγμένου πρὸς Γοργιππίδην αʹ. 
 <lb/>Περὶ ἀληθοῦς συνημμένου πρὸς Γοργιππίδην δʹ. 
 <lb/>Πρὸς τὸ περὶ ἀκολούθων αʹ. 
-<lb/></head>
+</head>
   <p rend="indent"><foreign xml:lang="lat">Diocles Magnes apud Diog. Laërt. VII 71.</foreign>
     τῶν δ’ οὐχ ἁπλῶν ἀξιωμάτων συνημμένον μέν ἐστιν, ὡς ὁ Χρύσιππος ἐν ταῖς διαλεκτικαῖς 
     φησι καὶ Διογένης ἐν τῇ διαλεκτικῇ τέχνῃ, τὸ συνεστὸς διὰ τοῦ <q>εἰ</q> συναπτικοῦ συνδέσμου·
@@ -3431,7 +3452,7 @@ Architecture</p>
     <q>εἰ τὸ Α τὸ Β</q> τῷ ἀκολουθεῖν τῷ Α τὸ Β, συλλογιστικὸν μὲν λόγον φασὶν εἶναι 
     τοιαύτης ληφθείσης τῆς λέξεως <q>εἰ τὸ Α τὸ Β, τὸ δὲ Α, τὸ ἄρα Β</q>, οὐκέτι δὲ 
     συλλογιστικὸν ἀλλὰ περαντικὸν τὸ <q>ἀκολουθεῖ τῷ Α τὸ Β, τὸ δὲ Α, τὸ ἄρα Β</q>. </p> </div> 
-<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="254"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="254"> 
   <p rend="indent"><foreign xml:lang="lat">Alexander in Aristot. Analyt. pr. p. 262, 28.</foreign>
     δι· ὑποθέσεως δὲ ἄλλης, ὡς εἶπεν (<foreign xml:lang="lat">scil. Aristoteles</foreign>), εἶεν ἂν καὶ οὓς οἱ νεώτεροι
     συλλογισμοὺς μόνους βούλονται λέγειν· οὗτοι δ’ εἰσὶν οἱ διὰ τροπικοῦ, ὥς φασι, καὶ 
@@ -3443,7 +3464,7 @@ Architecture</p>
     ὑποθέσεως καὶ ὁμολογίας ὡς φανερὰ παραλαμβάνεται· ἐπὶ τὸ πλεῖστον δὲ δεῖται δείξεως 
     τὰ μεταλαμβανόμενα καὶ προσλαμβανόμενα, εἰ ὅλως εἶεν χρειώδεις οἱ τοιοῦτοι λόγοι· ὡς 
     ὅπου μὴ δεῖται δείξεως τὸ μεταλαμβανόμενον, οὐδὲ συλλογισμός ἐστι τὸ γιγνόμενον, πάντων γε φανερῶν ὄντων. </p> </div> 
-<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="255"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="255"> 
   <p rend="indent"><foreign xml:lang="lat">Alexander in Aristot. Anal. pr. p. 278, 6 Wal.</foreign>
     ἔστι δὲ ἡ τοιαύτη σύνθεσις κατὰ τὸ τρίτον ὑπὸ τῶν νεωτέρων καλούμενον θέμα γινομένη. —  — 
     11. τοῦ δέ γε τρίτου καλουμένου θέματος ἡ περιοχὴ καὶ αὐτοῦ ἔχει ὧδε <q>ὅταν ἐκ δυεῖν
@@ -3455,7 +3476,7 @@ Architecture</p>
     πρότασιν κατὰ τὸ τρίτον λεγόμενον παρὰ τοῖς Στωϊκοῖς θέμα περαίνεται, οὗ λόγος κατὰ 
     τοὺς παλαιοὺς τοιοῦτος· ἐὰν ἐκ δυεῖν τρίτον τι συνάγηται, τὸ δὲ συναγόμενον μετ’ ἄλλου 
     τινὸς ἔξωθεν συνάγῃ τι, καὶ ἐκ τῶν πρώτων δυεῖν καὶ τοῦ ἔξωθεν προσληφθέντος συναχθήσεται τὸ αὐτό. </p> </div> 
-<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1" n="257"> 
+<div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="257"> 
   <p rend="indent"><foreign xml:lang="lat">Alexander in Aristot. Analyt. pr. p. 283, 7 Wal.</foreign>
     οἷον εἰ λάβοιμεν τὸ Α κατὰ τοῦ Β, τὸ Β κατὰ τοῦ Γ, τὸ Γ κατὰ τοῦ Δ, τὸ Δ κατὰ τοῦ Ε,
     τὸ Α ἄρα κατὰ τοῦ Ε. —  — ἐν τῇ τοιαύτῃ τῶν προτάσεων συνεχείᾳ τό τε συνθετικόν ἐστι 
@@ -3856,29 +3877,30 @@ Architecture</p>
   <p rend="indent"><foreign xml:lang="lat">Plutarchus de Stoic. repugn. cp. 28 p. 1047b.</foreign>
     πάλιν ἐν τῷ αὐτῷ βιβλίῳ περὶ τῆς τῶν φωνηέντων συγκρούσεως ὑπειπών, <q>Οὐ μόνον, φησί, 
       ταῦτα παρετέον τοῦ βελτίονος ἐχομένους, ἀλλὰ καὶ ποιᾶς ἀσαφείας καὶ ἐλλείψεις καί, νὴ Δία,
-      σολοικισμούς, ἐφ’ οἷς ἄλλοι ἂν αἰσχυνθείησαν οὐκ ὀλίγοι.</q> 
-<lb/>
-<lb/></p> </div> 
+      σολοικισμούς, ἐφ’ οἷς ἄλλοι ἂν αἰσχυνθείησαν οὐκ ὀλίγοι.</q>
+</p> </div> 
 <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="298a"> 
-<head>>ΧΡ(ΥΣΙΠΠΟΥ) <lb/>ΛΟΓΙΚΩ̣(Ν) <lb/>ΖΗΤ(Η)Μ(ΑΤΩΝ) Α.</head> 
-  <p rend="indent"><foreign xml:lang="lat">fr. 1 (n, deest in o): </foreign>
-<lb/><label>3</label> ἐσομένου τῶν καὶ . . . . νος 
+<p rend="center">ΧΡ(ΥΣΙΠΠΟΥ) 
+  <lb/>ΛΟΓΙΚΩ̣(Ν) 
+<lb/>ΖΗΤ(Η)Μ(ΑΤΩΝ) Α. 
+  <lb rend="indent"/><foreign xml:lang="lat">fr. 1 (n, deest in o): </foreign>
+<lb/>3 ἐσομένου τῶν καὶ . . . . νος 
 <lb/>πληθυντικ . του . . . . . λν 
 <lb/>. εστωμητω . . τωπληθυντι- 
 <lb/>κω καὶ τῶν ἐρωτ(ή)ς . . ὁμοί- 
 <lb/>. . μετω . . . ομεν . . . ε . . 
 <lb/>γ . ι περὶ τ . . τουτο ἐν . . τω . 
 <lb/>εἷναι τι . . . . . τον . . . . λοι 
-<lb/><pb facs="stoicorumveterum02arniuoft_0107"/>
+<pb facs="stoicorumveterum02arniuoft_0107"/>
 <lb/>λεγους . . . . . το προ . . . . . . 
 <lb/>κονεν . . . . . . . . . . . . . 
-<lb/>. . τοτε . . . . . . . . . ντῶπα 
+<lb/>. . τοτε . . . . . . . . . ντῶπα
 <lb/>ρ)εληλυ(θότι)ν . . . . . . το . . 
 <lb/>τωνου . . . . . . αιπ . . . . . . 
 <lb/>τ . τη . . . . . . . . εν . . . . . . 
 <lb/>ἀ(λ)λα μόνον τα . . . . . . . . 
-<lb/>. . . ωνπροηγε . . . . . .</p> 
-  <p rend="indent"><foreign xml:lang="lat">fr. 2n (p. 284o): </foreign>
+<lb/>. . . ωνπροηγε . . . . . . 
+  <lb rend="indent"/><foreign xml:lang="lat">fr. 2n (p. 284o): </foreign>
   <lb/>. . . . . . . . . κει . . τον (<foreign xml:lang="lat">ο</foreign>; κον . . . . . <foreign xml:lang="lat">n</foreign>) 
   <lb/>. . θα . . . ικεινος . . . . . . . 
 <lb/>πορίζεσθαι ὅπεροη . . . . . . (ὅπερ οὐ πιθανόν) 
@@ -3898,20 +3920,19 @@ Architecture</p>
 <lb/>τις . . . νου παρε . . . . . . (τι ἐκείνου παρεληλυθός) 
 <lb/>καὶ πα(ρε)λη(λυθότων παρε- 
 <lb/>ληλυθ(ότ)α ἐστ(ὶν μέχρι εἰς 
-<lb/>ἄπειπον . καὶ ἔσ(τι μὲ)ν (πα- 
-<lb/> 
+<lb/>ἄπειπον . καὶ ἔσ(τι μὲ)ν (πα-
   <lb/>ρεληλυθότα τοια(ῦτ)α καὶ κα- (θοτ . τοτα . . α <foreign xml:lang="lat">ο</foreign>) 
 <lb/>τα(τὸν) αὐτὸν ἐσ(ομέ)ν(ων 
 <lb/>ἐσόμενα ἔ(σ)ται (μέχ)ρι εἰς (ἄ- 
 <lb/>πειρον . καὶ (παρελη)λυθό- 
 <lb/>των ἐστ(ί . . . . . . . . . γε 
-<lb/>. εν . ωεν.</p> 
-  <p rend="indent"><foreign xml:lang="lat">fr. 3n (p. 285o): </foreign>
+<lb/>. εν . ωεν. 
+  <lb rend="indent"/><foreign xml:lang="lat">fr. 3n (p. 285o): </foreign>
 <lb/>τὸ . . . εισθα(ι . . ὑ)πτιο . . 
 <lb/>ὑπτ . . . . . . . . . . . . . . 
 <lb/>καὶ τ . . . μέ(χρι) εἰς ἄ(πειρον 
 <lb/>τ . ει . . . ταυτων ἐντ . . . . . 
-<lb/><pb facs="stoicorumveterum02arniuoft_0108"/>
+<pb facs="stoicorumveterum02arniuoft_0108"/>
 <lb/>νον . . . . . . . . . . . . . . . . . 
 <lb/><foreign xml:lang="lat">(4 vesus desunt)</foreign>
 <lb/>. . .ων ὀρθ(ῶν). .χει. . . . .
@@ -3931,11 +3952,12 @@ Architecture</p>
 <lb/>. . . . . ος ετερ . . . . εσθαι τα 
 <lb/>. . . . ς ἔχοντα ο . . . . . . . . 
 <lb/>ρεληλυθότα και . . . . . . . 
-<lb/>. . . ροστ . (ὑ)παρ . . . . . . . .</p> 
-<p rend="indent"><foreign xml:lang="lat">col. I n (p. 286o):</foreign> 
+<lb/>. . . ροστ . (ὑ)παρ . . . . . . . . 
+<lb/><foreign xml:lang="lat">col. I n (p. 286o):</foreign> 
 <lb/>. . . . . . . . . . (δ)υοῖν τὸ . . . . 
 <lb/>. . . . . . . . . . (δ)υοῖν ἐ . . . . . . 
 <lb/>. . . . . . . . . μ)έχρι εἰς ἄπει- 
+<lb/> 
   <lb/>ρον) . . . . . . ὁμοίων ἐσ(τί (ομετωνες <foreign xml:lang="lat">ο</foreign>) 
 <lb/>. . . . . . . . των . . . τα . . 
 <lb/>. α . . . . . . . . . ται ἐπιζ(ητ . . 
@@ -3951,7 +3973,7 @@ Architecture</p>
 <lb/>πρὸς ἐκεῖνα ἔσται πιθανῶς 
 <lb/>προσελθεῖν λέγοντα (ο)ὐ δ(ῆτα 
 <lb/>πλξθυντικὰ μὲν πλ(ηθυν- 
-<lb/><pb facs="stoicorumveterum02arniuoft_0109"/>
+<pb facs="stoicorumveterum02arniuoft_0109"/>
 <lb/>τικ)ῶν εἰναι, τρόπον τιν(ὰ 
 <lb/>. . . . . τῶν πρὸς τὰ ἑνικὰ 
 <lb/>. . . μενων, παρεληλυθότα δὲ 
@@ -3966,8 +3988,8 @@ Architecture</p>
 <lb/>τινος (τῶν) τοιούτων (εἰς) συν- 
 <lb/>γενῆ . . . τόπον, ἡ(μ)ὲν (ἀγωγὴ 
 <lb/>τ(οῦ λόγου ὑγιὴς) τῶ(ι) εἴ(δ)ει, αὐ- 
-<lb/>τ(ὴ) δὲ ἡ (δι)άβασίς ἐστιν τῶν</p> 
-  <p rend="indent"><foreign xml:lang="lat">Col. 2n (p. 287o):</foreign>
+<lb/>τ(ὴ) δὲ ἡ (δι)άβασίς ἐστιν τῶν 
+  <lb/><foreign xml:lang="lat">Col. 2n (p. 287o):</foreign>
   <lb rend="indent"/>ταν. . . . . (<foreign xml:lang="lat">o</foreign>, ειαν <foreign xml:lang="lat">n</foreign>)
   <lb/>. . . . . . . . . . . δωνπ . . . . . . . (<foreign xml:lang="lat">ο</foreign>, ιιοντ <foreign xml:lang="lat">n</foreign>). 
   <lb/>. . . . . . . . . . (κ)ατὰ κλ . . . θην (ειιν <foreign xml:lang="lat">o</foreign>, ων <foreign xml:lang="lat">n</foreign>) 
@@ -3992,7 +4014,7 @@ Architecture</p>
 <lb/>πληθυντικά ἐστιν κατηγορή- 
 <lb/>ματα, καὶ πληθυντικῶν πλη- 
 <lb/>θυντικά ἐστι μέχρι εἰς ἄπει- 
-  <lb/><pb facs="stoicorumveterum02arniuoft_0110"/>
+  <pb facs="stoicorumveterum02arniuoft_0110"/>
   ρον. οὐ πάνυ δὲ τοῦτο. ο(ὐδ’ ἄρα 
   <lb/>τὸ πρῶ)τον. Ἐπὶ γὰρ τῶν τοιού 
   <lb/>των . . με . . . . . αιμε . . . τ̣ . . .
@@ -4006,8 +4028,8 @@ Architecture</p>
   <lb/>με . . . . τοιουτοις . . . 
   <lb/>δ . . . . . ιαλογισμο . . 
   <lb/>επ . . . . . αυτ . ουδ . .
-  <lb/>. . . . . . . επιτουδε . .</p> 
-  <p rend="indent"><foreign xml:lang="lat">Col. 3 n (288o):</foreign>
+  <lb/>. . . . . . . επιτουδε . . 
+  <lb/><foreign xml:lang="lat">Col. 3 n (288o):</foreign>
   <lb/>. . . . . . . . . . . . . . τει. . .
   <lb/>. . . . . . . . . . . . . . .αν. .
   <lb/>. . σθαι . . . . . . . ημων .
@@ -4041,8 +4063,8 @@ Architecture</p>
   <lb/>τὸ ὅλον ἀ . . . . . καὶ κα(τὰ (<foreign xml:lang="lat">fortasse:</foreign> τὸ ὅλον δ̣ὲ σῶμα) 
 <lb/>τὴν διάνο(ιαν . . . ατα 
 <lb/>. . λεγ . . . . . . . . . ἐπὶ τ(ῶν 
-<lb/>λοιπῶν . . . . . . . μὴ κ(ατα-</p> 
-  <p rend="indent"><foreign xml:lang="lat">Col. 4n (p. 289o):</foreign> 
+<lb/>λοιπῶν . . . . . . . μὴ κ(ατα- 
+  <lb/><foreign xml:lang="lat">Col. 4n (p. 289o):</foreign> 
 <lb/>ε . . . ωι . . . . . . . . . . . . 
 <lb/>σε . . . . . . . σως κα . . . . . . . . 
 <lb/>α . . αν παρ . . . σοτ . . . . . . . 
@@ -4071,13 +4093,13 @@ Architecture</p>
 <lb/>δε(ικνύ)ντες δύο λέγωσιν 
 <lb/>(ἄν) ὅ(τ)ι <q>οὐκ (ἐστιν) οὑτος οὑ- 
 <lb/>τος</q> . . οτ μσ . . . . . διασα- 
-<lb/><pb facs="stoicorumveterum02arniuoft_0112"/>
+<pb facs="stoicorumveterum02arniuoft_0112"/>
 <lb/>φῆ(σα)ι οὐκ ἂν δύν(αι)ντ(ο 
 <lb/>θαῤ(ῥ)ήσαντ(ες . . . . . . . 
 <lb/>. . ο)ὐδὲ μα . . . . υετ . . . 
 <lb/>. . . . . . . . . . . . . . . βαν . . . 
-<lb/>τιν . . . στενε . . παιδον . . .</p> 
-<p rend="indent"><foreign xml:lang="lat">Col. 5n (p. 290o)</foreign>: 
+<lb/>τιν . . . στενε . . παιδον . . . 
+<lb/><foreign xml:lang="lat">Col. 5n (p. 290o)</foreign>: 
 <lb/>(πε)ρὶ τ . . . . . . . . . . . . μος . . .＊ 
 <lb/>. ε . . . . . . . . . . . . ωαιρα . . 
 <lb/>αυτ . . . . . . . . . . . . ο . . . . . . 
@@ -4110,12 +4132,12 @@ Architecture</p>
 <lb/>. . ιων καὶ ἐπακαω . . . . . . . . 
 <lb/>. . . ο . . ων παραλ(λ)α(γ)ὰς καὶ 
 <lb/>. . . . . . θ’ ὅταν κα . . . . . . . . 
-<lb/><pb facs="stoicorumveterum02arniuoft_0113"/>
+<pb facs="stoicorumveterum02arniuoft_0113"/>
 <lb/>. . . . . . . . διαλεγ . . . . . . . 
 <lb/>. . . . . . . κα. α . . . . . . . 
 <lb/>τ)ὸ παραβε . . . . . . . . . 
-<lb/><foreign xml:lang="lat">(sequuntur etiam 5 versus) </foreign></p>
-<p rend="indent"><foreign xml:lang="lat">Col. 6n (p. 291o):</foreign> 
+<lb/><foreign xml:lang="lat">(sequuntur etiam 5 versus) </foreign>
+<lb/><foreign xml:lang="lat">Col. 6n (p. 291o):</foreign> 
 <lb/>του
 <lb/>τε
 <lb/>. . . ο)ὔτ’ αρ . πε . . . . . μη 
@@ -4148,10 +4170,10 @@ Architecture</p>
 <lb/>ἂ)ν μ(ὴ) καθ’ ἕτερόν τινα . . . . . 
 <lb/>χθῶμ(ε)ν λόγον καὶ δια . . . . . 
 <lb/>. ες . . π)ληθυντ(ικά), εἰ καὶ τ(ὸν. ＊ 
-<lb/><pb facs="stoicorumveterum02arniuoft_0114"/>
+<pb facs="stoicorumveterum02arniuoft_0114"/>
 <lb/>μετα . . . αρα . . . . . . . . . . . . . . 
-<lb/>. . εκε . . νλεγ . . . . . . . . . . . .</p> 
-<p rend="indent"><foreign xml:lang="lat">Col. 7n (p. 292o):</foreign> 
+<lb/>. . εκε . . νλεγ . . . . . . . . . . . . 
+<lb/><foreign xml:lang="lat">Col. 7n (p. 292o):</foreign> 
 <lb/>. . . . . . . . . σιον κατα (οιον <foreign xml:lang="lat">o</foreign>) 
 <lb/>. . . . . . . . . . . τοσον τοῦ 
 <lb/>. . . . . . . . . . . . των οὐδὲ ταῦ- 
@@ -4163,7 +4185,7 @@ Architecture</p>
 <lb/>το . . . . . πληθυν)τικὸν ὂν ἐκεῖ- 
 <lb/>10 νο . . . . . . . . . . . εθ̣αντα (ραντα <foreign xml:lang="lat">o</foreign>) 
 <lb/>τ . . . . . . . . . νπαι . εν ἐπὶ τοῦ 
-<lb/><q>το(ύτους τύπ)των</q> καὶ <q>τοῦτον</q> 
+<lb/><q>το(ύτους τύπ)των</q> καὶ <q>τοῦτον 
 <lb/>τύ(πτ . . . . . εωσ . . . . τικων 
 <lb/>γαρτινω(ν π)ροηγουμένων 
 <lb/>ἐκφερι . . . . εται . α . τὰ τοι- 
@@ -4183,20 +4205,20 @@ Architecture</p>
 <lb/>θρωπ(.)ς ἀν . . τα . . . . . . εμε 
 <lb/>. . . . . οι . . . νου . . . . . . υ^ . . . 
 <lb/>. . . τεσθαις . . . . εδης μέρος 
-<lb/><foreign xml:lang="lat">(versus inutiles omitto) </foreign></p>
-<p rend="indent"><foreign xml:lang="lat">Col. 8n (p. 293o):</foreign> 
+<lb/><foreign xml:lang="lat">(versus inutiles omitto) </foreign>
+<lb/><foreign xml:lang="lat">Col. 8n (p. 293o):</foreign> 
 <lb/>εσι ταυ- (υνα <foreign xml:lang="lat">o</foreign>) 
 <lb/>. . . . . . . . η . δ . . . . . η 
 <lb/>. . . . . . . να . α καὶ πρόσ(ο)ν 
 <lb/>. . . . . ινον . . . . καὶ ἐκ πόσων 
-<lb/><pb facs="stoicorumveterum02arniuoft_0115"/>
+<pb facs="stoicorumveterum02arniuoft_0115"/>
 <lb/>(γρ)άφεται . . . . . . . . . . . . . . 
 <lb/>. . αμε . . . . . . . . . . . . μαι 
 <lb/>. . λον . . . . . . . . κο διαστα 
 <lb/>. . . . . . μεν . ν . εξει δὲ καὶ 
 <lb/>. . . . . . . ασιν . . ιατιναν . . 
 <lb/>. . . μ̣(ετ)ὰ (τὸ τ)ο̣ῦτον φρονῆσαι 
-<lb/><q>ἐφρόνησα</q> καὶ <q>μετὰ τὸ τοῦτον 
+<lb/>ἐφρόνησα</q> καὶ <q>μετὰ τὸ τοῦτον 
 <lb/>περιπατῆσαι ἐκάθι(σ)α</q>. Οὐ γὰρ ※ 
 <lb/>. . αυτ . . ⟨α̣ι̣ ἔστιν τὰ ὡ(μ)οιω- 
 <lb/>μένα ο(ἱο)ν <q>(μ)ετὰ (δὲ) τοῦτο ἐφρό- 
@@ -4217,8 +4239,8 @@ Architecture</p>
 <lb/>. . . . . . . φευδές ἐστιν τὸ 
 <lb/>. . . . . . τα . . . . τοῦτο φρο 
 <lb/>ν . . ος . καὶ πο . . . . . . α . δε 
-<lb/>. . . . . μεταλη . . . . . . .</p> 
-<p rend="indent"><foreign xml:lang="lat">Col. 9n (p. 294o):</foreign> 
+<lb/>. . . . . μεταλη . . . . . . . 
+<lb/><foreign xml:lang="lat">Col. 9n (p. 294o):</foreign> 
 <lb/>. . . . . . . . νομ . . . . . . . . . . . 
 <lb/>. . . . . . . . . . . θαι . . . . . . . . . . . 
 <lb/>ε . . κα . . . . δα . . . οτοσ . . . 
@@ -4228,7 +4250,7 @@ Architecture</p>
 <lb/>νομενοις . . . . . . . . . . . . . . 
 <lb/>τουτο . . . . . . . . . . . καὶ . . . 
 <lb/>νο . ει . . . τε . . ναιδην αυ 
-<lb/><pb facs="stoicorumveterum02arniuoft_0116"/>
+<pb facs="stoicorumveterum02arniuoft_0116"/>
 <lb/>τον τοιο(ῦ)τ(ο) δυνατὸν ἀπο(σ)η 
 <lb/>μαιν . ν . ο . . . . . . κ)αὶ λέγου- 
 <lb/>σιν μὲν τὰ πράγματα (κ)αὶ ση- 
@@ -4248,11 +4270,11 @@ Architecture</p>
 <lb/>δόσ (ἐστιν ἡ) ἐφιφ(ορά) καὶ . . . 
 <lb/>. . . . . . . . . σινομο . . . οσιν . . . 
 <lb/>μενο . . . . . . . . ουτι . . . . . . . . . 
-<lb/>τος . . . . . . . . . σιν καὶ . . . . . . . 
+<lb/>τος . . . . . . . . . σιν καὶ . . . . . . .  
 <lb/>αυτ . . . . . . ὅτι . . καὶ στα . . . . 
 <lb/>ανα . . . . . ντ . . . ω . . . . . . . . . . 
-<lb/>. . . ὀ)μνύειν ἀλλ . . . . . . . . </p>
-<p rend="indent"><foreign xml:lang="lat">Col. 10n (p. 295o):</foreign> 
+<lb/>. . . ὀ)μνύειν ἀλλ . . . . . . . . 
+<lb/><foreign xml:lang="lat">Col. 10n (p. 295o):</foreign> 
 <lb/>. . . · σ)υνκα . . . . . . . . . 
 <lb/>ο . . . . ντὰ πράγ(ματα) . . . . 
     <lb/>(<foreign xml:lang="lat">o n</foreign>) τα . . μεσ . . . αυτο . . . . . . . . . 
@@ -4268,7 +4290,7 @@ Architecture</p>
 <lb/>ον, οὐ τοῦτο ὑφορωμένου(ς) ἀλ- 
 <lb/>λω τρόπω, εἰ ὁ αὐτὸς ἅμα ἀ- 
 <lb/>ληθεύσει καὶ ψεύ(σ)εται, ἀλλ’ ὅ- 
-<lb/><pb facs="stoicorumveterum02arniuoft_0117"/>
+<pb facs="stoicorumveterum02arniuoft_0117"/>
 <lb/>τι τοῦ σημαινομένου τελέ- 
 <lb/>ως ἀποπλαν(ῶν)ται. Κ(αὶ) τὸν 
 <lb/>προηγούμενον λόγον προσ- 
@@ -4284,8 +4306,8 @@ Architecture</p>
 <lb/>το . . . αλλοι . . . . . . . οὔτ' εἰς 
 <lb/>το . . . αλλοι . . . . . . . . οὔτ’ εἰς 
 <lb/>ο . . . . . . ηντατε . . . καὶ . . . 
-<lb/>. . . . . . . ἀλλ(ὰ) τὰ ὅμοια τὰ . .</p> 
-  <p rend="indent"><foreign xml:lang="lat">Col. 11n (p. 296o): </foreign>
+<lb/>. . . . . . . ἀλλ(ὰ) τὰ ὅμοια τὰ . . 
+  <lb/><foreign xml:lang="lat">Col. 11n (p. 296o): </foreign>
 <lb/>ον . οπ . . . . . . . . . ει . . . . . . 
 <lb/>. . . . . . . . . ιτ . . ν . . . . . . . . 
 <lb/>. . . . . . . . ιομενο . . . . . . . . 
@@ -4309,7 +4331,7 @@ Architecture</p>
 <lb/>μέρα ἐστιν</q> μήπ(οτε) διχῶς 
 <lb/>λέγομεν, ὥστε κα(τὰ θά)τερον 
 <lb/>μὲν τῶν λεκτῶν προστάτ- 
-<lb/><pb facs="stoicorumveterum02arniuoft_0118"/>
+<pb facs="stoicorumveterum02arniuoft_0118"/>
 <lb/>τειν τὸ ὅλον τοῦτο, τὸ <q>περιπα- 
 <lb/>τεῖν, ἐπεὶ δ’ ἡμέρα ἐ(στι)ν</q> κα- 
     <lb/>τὰ (τὸ) λο(ι)πὸ̣ν δ’ ὃ̣ καὶ μᾶλλον 
@@ -4317,8 +4339,8 @@ Architecture</p>
 <lb/>χρώμεθα, τὸ περιπα(τεῖν προσ- 
 <lb/>τάττεται, τὸ δὲ λο(ιπὸ)ν ἔξ(ω- 
 <lb/>θεν ἐπι(γίν)εται . . . . . . κα- 
-<lb/>. . ματι . μενο . . . . . . . . .</p> 
-  <p rend="indent"><foreign xml:lang="lat">Col. 12n (p. 297o): </foreign>
+<lb/>. . ματι . μενο . . . . . . . . . 
+  <lb/><foreign xml:lang="lat">Col. 12n (p. 297o): </foreign>
 <lb/>. . . πρ . . . νυτο . . . . νυμεν 
 <lb/>. . . απ . . . οσ . . . . υ . . . . ρα 
 <lb/>. . ρεστ . . . . . . . . . οπ(ε)ριλαν- 
@@ -4351,11 +4373,11 @@ Architecture</p>
 <lb/>. . σν . . . . . . . αχ . . . . . . . . . . . . . 
     <lb/>τοῦ(τ)ον π̣ε(ριπατεῖν, εἰ δὲ 
 <lb/>μὴ, καθῆσθ(αι ουδ)εν φα 
-<lb/><pb facs="stoicorumveterum02arniuoft_0119"/>
+<pb facs="stoicorumveterum02arniuoft_0119"/>
 <lb/>. . . ναι . . . . . . . . . τετ . . 
 <lb/>. . . . . . . . . . . . . . εσ . . . . υ . (ν?) 
-<lb/>καταλη(πτικ)ὼς . . . . . . . .</p> 
-  <p rend="indent"><foreign xml:lang="lat">Col. 13n (p. 298o): </foreign>
+<lb/>καταλη(πτικ)ὼς . . . . . . . . 
+  <lb/><foreign xml:lang="lat">Col. 13n (p. 298o): </foreign>
     <lb/>. . . . . . . . εστι . . . ειε . . . (τε pro ειε <foreign xml:lang="lat">n</foreign>) 
     <lb/>. . . . . . ν . . . αμ . . . τ . . . . . . (διαλ pro αμ <foreign xml:lang="lat">n</foreign>) 
 <lb/>. . . . . . . . . . . . . . . . . . . . . . . ἀ)λλ' ἐπὶ 
@@ -4391,9 +4413,9 @@ Architecture</p>
 <lb/>θέν. Ὁμοίως δὲ καὶ ἂν οὕτως 
 <lb/>ιπητ . . . . τοντ . . . . . ον . . . 
 <lb/>Δ . . . . . . . . ουτ . ισμελ . ν . . 
-<lb/>. . . . υσοδουμ . . . . . . . . . .</p> 
+<lb/>. . . . υσοδουμ . . . . . . . . . . 
 <pb facs="stoicorumveterum02arniuoft_0120"/>
-  <p rend="indent"><foreign xml:lang="lat">Col. 14n (p. 299o): </foreign>
+  <lb/><foreign xml:lang="lat">Col. 14n (p. 299o): </foreign>
 <lb/>. . . . . τω . . . . γει . . καὶ . . 
 <lb/>. . . . ονος οὐχ ὡ . . . . . ου 
 <lb/>. . . ἀλλ’ ἔξωθέν πω(ς ἐπιγι- 
@@ -4422,8 +4444,8 @@ Architecture</p>
 <lb/>. . . . . . . . . ἐπὶ πολλῶν καὶ 
     <lb/>. . . . ἀξιώ)ματα καὶ κατη̣- 
 <lb/>γορήματα . . . . . . . . . . . . . . . . 
-  <lb/><foreign xml:lang="lat">(quinque versus inutiles omitto) </foreign></p>
-  <p rend="indent"><foreign xml:lang="lat">Col. 15n (p. 300o):</foreign> 
+  <lb/><foreign xml:lang="lat">(quinque versus inutiles omitto) </foreign>
+  <lb/><foreign xml:lang="lat">Col. 15n (p. 300o):</foreign> 
 <lb/>λιν καταμα . . με . δεον . 
 <lb/>ουγ . αρ . . . . . νευω . καρ 
 <lb/>σον κα(τηγορη)μάτων . . . 
@@ -4432,8 +4454,8 @@ Architecture</p>
 <lb/>ε . ε . . . πω . διχ(ῶ)ς λ(εγό)μεν(α 
 <lb/>. . . . καὶ τοιαῦτά τινα . . . . . . 
 <lb/>. . περὶ) δ’ ἐκ(εί)νων ἀρκεῖ τὰ 
-<lb/>εἰρημένα.</p> 
-<pb facs="stoicorumveterum02arniuoft_0121"/> </div> 
+<lb/>εἰρημένα. 
+<pb facs="stoicorumveterum02arniuoft_0121"/></p> </div> 
 <div type="textpart" subtype="fragment" xml:base="urn:cts:greekLit:tlg1264.tlg001.1st1K-grc1"  n="299"> 
   <head><foreign xml:lang="lat">Physica I <lb/> Physicae doctrinae fundamenta. <lb/> §1. De duobus principalis, materia et causa.</foreign></head>
   <p rend="indent"><foreign xml:lang="lat">Diogenes Laërt. VII 134.</foreign>
